@@ -1,0 +1,80 @@
+.mini-photocopy-upload {
+  background-color: #f9f9f9;
+  border: 2px solid #ddd;
+  border-radius: 16px;
+  padding: 24px;
+  margin: 20px;
+  max-width: 600px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.mini-photocopy-upload h3 {
+  font-size: 20px;
+  color: #2c3e50;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.mini-photocopy-upload label {
+  font-weight: 500;
+  margin-right: 10px;
+}
+
+.mini-photocopy-upload select,
+.mini-photocopy-upload input[type="file"] {
+  margin-top: 8px;
+  padding: 8px 12px;
+  font-size: 14px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 16px;
+}
+
+.file-list ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-bottom: 12px;
+}
+
+.file-list li {
+  font-size: 14px;
+  color: #555;
+}
+
+.mini-photocopy-upload button {
+  background-color: #2ecc71;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  font-size: 14px;
+  font-weight: 500;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 10px;
+  transition: background-color 0.3s;
+}
+
+.mini-photocopy-upload button:disabled {
+  background-color: #aaa;
+  cursor: not-allowed;
+}
+
+.mini-photocopy-upload button:hover:not(:disabled) {
+  background-color: #27ae60;
+}
+
+.summary {
+  margin-top: 20px;
+  background-color: #fff;
+  border-top: 1px solid #ddd;
+  padding-top: 16px;
+}
+
+.summary p {
+  font-size: 15px;
+  margin: 6px 0;
+  color: #333;
+}

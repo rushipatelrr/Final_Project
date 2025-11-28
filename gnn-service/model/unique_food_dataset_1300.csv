@@ -1,0 +1,1301 @@
+item_id,name,food_type,cuisine,spice_level,taste_profile,orders,rating,popularity
+1,Mexican Special Dish 1,Thai,Italian,4,Tangy,1476,4.9,0.8187692307692309
+2,Indian Gourmet Item 2,American,Italian,5,Savory,723,4.4,0.4870769230769232
+3,Japanese Culinary Mix 3,Japanese,Indian,4,Sweet,775,3.0,0.2230769230769231
+4,Thai House Special 4,European,American,5,Cheesy,1044,4.3,0.5658461538461539
+5,Mediterranean Special Dish 5,Japanese,Indian,2,Umami,910,4.2,0.5046153846153847
+6,Italian Chef Style 6,North Indian,American,4,Umami,474,4.2,0.3704615384615385
+7,American Special Dish 7,Korean,Mexican,3,Umami,1741,4.0,0.7203076923076923
+8,Japanese Chef Style 8,Korean,Korean,1,Umami,1582,3.8,0.6313846153846154
+9,Indian Signature Meal 9,European,Mexican,3,Cheesy,1381,3.7,0.5495384615384616
+10,Korean Culinary Mix 10,Japanese,Thai,3,Cheesy,1953,3.8,0.7455384615384615
+11,Mediterranean Fusion Delight 11,South Indian,Thai,1,Umami,1190,3.1,0.3707692307692308
+12,Mexican Heritage Recipe 12,European,Mexican,2,Umami,382,3.5,0.20215384615384616
+13,Indian Culinary Mix 13,Thai,Japanese,5,Cheesy,1632,4.9,0.866769230769231
+14,Japanese Traditional Bowl 14,Mexican,Chinese,2,Cheesy,1355,5.0,0.8015384615384615
+15,European Special Dish 15,European,Korean,3,Cheesy,1009,3.1,0.3150769230769231
+16,Indian Culinary Mix 16,European,Mediterranean,4,Sweet,1359,3.9,0.5827692307692307
+17,Mediterranean House Special 17,Japanese,Mediterranean,5,Creamy,108,4.0,0.21784615384615386
+18,Indian Culinary Mix 18,South Indian,Italian,3,Tangy,1493,3.3,0.504
+19,Italian Special Dish 19,South Indian,Mediterranean,5,Creamy,1113,3.3,0.3870769230769231
+20,Korean Special Dish 20,South Indian,Mexican,2,Umami,1409,4.7,0.7581538461538462
+21,Indian Traditional Bowl 21,Chinese,Mexican,4,Cheesy,270,5.0,0.46769230769230774
+22,Mexican Chef Style 22,Korean,Korean,2,Umami,1852,3.6,0.6744615384615384
+23,Italian Gourmet Item 23,Korean,Italian,1,Cheesy,421,4.3,0.3741538461538461
+24,European Chef Style 24,Italian,Italian,2,Spicy,943,3.7,0.4147692307692308
+25,Korean Fusion Delight 25,Korean,Japanese,2,Spicy,454,3.5,0.22430769230769232
+26,European Fusion Delight 26,Chinese,Korean,4,Savory,906,4.8,0.6233846153846154
+27,European Gourmet Item 27,Korean,Asian,4,Spicy,1385,4.6,0.7307692307692307
+28,Korean Chef Style 28,Korean,Mediterranean,1,Tangy,1067,3.7,0.452923076923077
+29,Korean Gourmet Item 29,North Indian,Korean,5,Savory,579,3.4,0.24276923076923076
+30,European House Special 30,Mexican,American,3,Cheesy,1811,3.2,0.5818461538461539
+31,American Gourmet Item 31,North Indian,Asian,5,Cheesy,829,4.0,0.4396923076923077
+32,Indian Signature Meal 32,European,Japanese,2,Umami,405,4.2,0.3492307692307693
+33,European Gourmet Item 33,European,Asian,3,Creamy,925,3.5,0.36923076923076925
+34,Chinese Signature Meal 34,Japanese,Mediterranean,1,Umami,1994,4.4,0.8781538461538463
+35,European Chef Style 35,South Indian,Chinese,3,Umami,576,3.6,0.28184615384615386
+36,Chinese Classic Plate 36,Thai,European,2,Sweet,939,3.1,0.2935384615384616
+37,Mexican Classic Plate 37,Middle Eastern,American,2,Spicy,1849,3.0,0.5535384615384615
+38,Thai Classic Plate 38,Japanese,Asian,3,Spicy,687,3.8,0.356
+39,Japanese Traditional Bowl 39,American,Mediterranean,2,Spicy,863,3.6,0.37015384615384617
+40,Chinese Culinary Mix 40,South Indian,Mediterranean,1,Sweet,399,4.3,0.3673846153846153
+41,European Gourmet Item 41,American,Italian,1,Umami,1780,5.0,0.9323076923076923
+42,American Culinary Mix 42,Korean,Korean,5,Spicy,1419,3.9,0.6012307692307692
+43,Mexican Classic Plate 43,American,Italian,3,Umami,1663,3.5,0.5963076923076923
+44,Korean Classic Plate 44,Mexican,Italian,4,Creamy,1938,3.2,0.6209230769230769
+45,Asian House Special 45,European,Thai,1,Tangy,1921,3.4,0.6556923076923077
+46,Mediterranean Special Dish 46,Thai,Korean,5,Sweet,1006,4.2,0.5341538461538462
+47,Japanese Traditional Bowl 47,Korean,Chinese,5,Sweet,1135,4.7,0.673846153846154
+48,Asian Special Dish 48,Thai,Chinese,4,Savory,316,4.8,0.44184615384615383
+49,Indian Heritage Recipe 49,North Indian,Mexican,1,Sweet,177,3.4,0.11907692307692305
+50,Asian Signature Meal 50,American,Mediterranean,3,Tangy,1285,3.4,0.45999999999999996
+51,Thai Special Dish 51,European,Japanese,3,Cheesy,412,3.8,0.27138461538461534
+52,Japanese Chef Style 52,Chinese,Japanese,3,Spicy,318,4.5,0.3824615384615385
+53,European House Special 53,North Indian,American,4,Cheesy,1568,4.1,0.687076923076923
+54,Japanese Signature Meal 54,Chinese,Mexican,3,Savory,1175,4.2,0.5861538461538461
+55,Thai Culinary Mix 55,European,Mexican,5,Savory,1162,4.0,0.5421538461538462
+56,American Traditional Bowl 56,Japanese,Italian,1,Umami,180,4.8,0.39999999999999997
+57,Italian Culinary Mix 57,Korean,American,5,Umami,940,3.8,0.4338461538461538
+58,Chinese Fusion Delight 58,Thai,Italian,5,Savory,200,3.0,0.046153846153846156
+59,Italian Traditional Bowl 59,Chinese,Italian,3,Cheesy,206,3.8,0.20799999999999996
+60,European House Special 60,Korean,Thai,3,Sweet,1215,4.9,0.7384615384615385
+61,Indian Chef Style 61,South Indian,Indian,2,Sweet,876,4.4,0.5341538461538462
+62,Indian Signature Meal 62,American,Italian,3,Sweet,1898,4.2,0.8086153846153847
+63,Chinese Signature Meal 63,Japanese,Mexican,3,Spicy,1423,4.6,0.7424615384615384
+64,Mexican Signature Meal 64,Thai,American,2,Cheesy,1506,3.8,0.608
+65,European Heritage Recipe 65,Middle Eastern,Italian,1,Sweet,51,4.4,0.28030769230769237
+66,Mediterranean Signature Meal 66,Korean,European,1,Savory,542,4.5,0.4513846153846154
+67,Korean Gourmet Item 67,Japanese,Japanese,2,Umami,1968,3.1,0.6101538461538462
+68,Mediterranean House Special 68,Korean,Thai,5,Creamy,431,3.0,0.11723076923076922
+69,Chinese Signature Meal 69,Chinese,European,1,Savory,244,4.7,0.3996923076923078
+70,Indian Traditional Bowl 70,Thai,Chinese,5,Creamy,1676,4.2,0.7403076923076923
+71,Indian Heritage Recipe 71,American,Chinese,5,Umami,1667,3.6,0.6175384615384615
+72,Asian Gourmet Item 72,Middle Eastern,Chinese,1,Spicy,1415,4.7,0.76
+73,Mexican Chef Style 73,Korean,Chinese,4,Creamy,1966,3.6,0.7095384615384615
+74,Thai House Special 74,Korean,Japanese,4,Creamy,926,3.8,0.4295384615384615
+75,Korean House Special 75,European,Mediterranean,3,Tangy,784,4.9,0.6058461538461539
+76,Italian Chef Style 76,European,Japanese,1,Savory,287,3.1,0.09292307692307694
+77,Asian House Special 77,Italian,Asian,2,Umami,1055,3.3,0.36923076923076914
+78,Mexican Classic Plate 78,Korean,Chinese,4,Cheesy,825,4.7,0.5784615384615386
+79,European Special Dish 79,American,Korean,4,Tangy,848,4.6,0.5655384615384615
+80,Indian Culinary Mix 80,Thai,American,4,Tangy,791,4.7,0.5680000000000001
+81,Thai Chef Style 81,American,Indian,5,Sweet,1999,3.9,0.7796923076923077
+82,Indian Classic Plate 82,Japanese,Japanese,4,Umami,1292,3.5,0.48215384615384616
+83,European Culinary Mix 83,European,Italian,4,Umami,1317,3.5,0.4898461538461538
+84,Korean Signature Meal 84,Mexican,Indian,4,Spicy,1321,3.4,0.47107692307692306
+85,Italian Classic Plate 85,Italian,Japanese,4,Spicy,741,3.1,0.2326153846153846
+86,Italian Gourmet Item 86,Italian,Chinese,2,Spicy,968,4.2,0.5224615384615385
+87,Asian Chef Style 87,Korean,Korean,3,Cheesy,59,3.3,0.06276923076923074
+88,Thai Traditional Bowl 88,Italian,European,1,Sweet,873,3.9,0.4332307692307692
+89,Mediterranean Special Dish 89,South Indian,Mexican,5,Sweet,786,3.1,0.24646153846153848
+90,Chinese Special Dish 90,Korean,Korean,1,Savory,772,3.0,0.22215384615384615
+91,Korean Culinary Mix 91,South Indian,Italian,4,Savory,827,3.6,0.35907692307692307
+92,Italian Chef Style 92,European,Asian,1,Creamy,1349,3.9,0.5796923076923077
+93,Korean Signature Meal 93,Italian,Asian,4,Sweet,1068,3.2,0.35323076923076924
+94,American Fusion Delight 94,Middle Eastern,Indian,5,Sweet,1084,3.2,0.35815384615384616
+95,American Special Dish 95,Korean,American,5,Sweet,381,3.0,0.10184615384615385
+96,Thai Classic Plate 96,Korean,American,2,Tangy,520,3.1,0.16461538461538464
+97,Thai Signature Meal 97,Korean,Japanese,3,Creamy,1596,3.3,0.5356923076923076
+98,American Chef Style 98,Mexican,Thai,4,Creamy,1618,3.4,0.5624615384615385
+99,Mediterranean Gourmet Item 99,Mexican,Mediterranean,4,Spicy,83,4.3,0.27015384615384613
+100,European Special Dish 100,European,Thai,5,Cheesy,740,5.0,0.6123076923076923
+101,Mediterranean House Special 101,Middle Eastern,Mexican,3,Savory,1912,4.1,0.7929230769230768
+102,Chinese Heritage Recipe 102,Italian,Thai,1,Savory,1592,5.0,0.8744615384615384
+103,Mediterranean Heritage Recipe 103,European,Thai,3,Spicy,586,4.4,0.444923076923077
+104,Mediterranean Traditional Bowl 104,North Indian,American,5,Umami,960,4.3,0.5399999999999999
+105,Thai Culinary Mix 105,North Indian,Italian,5,Spicy,1198,3.2,0.3932307692307692
+106,Italian Fusion Delight 106,Thai,Indian,3,Spicy,688,4.8,0.5563076923076923
+107,Japanese Chef Style 107,Mexican,Indian,3,Spicy,716,3.3,0.2649230769230769
+108,Japanese Signature Meal 108,Korean,Korean,1,Umami,1286,4.2,0.6203076923076923
+109,European Traditional Bowl 109,Mexican,Mexican,4,Creamy,1619,3.7,0.6227692307692307
+110,Mexican Signature Meal 110,Korean,Thai,1,Cheesy,1423,4.3,0.6824615384615385
+111,Mediterranean Chef Style 111,Korean,Japanese,5,Cheesy,863,3.8,0.4101538461538461
+112,Thai Chef Style 112,Mexican,Japanese,5,Cheesy,669,4.0,0.39046153846153847
+113,Indian Chef Style 113,Mexican,Chinese,3,Cheesy,296,3.4,0.15569230769230769
+114,Korean Classic Plate 114,Thai,European,1,Creamy,846,3.4,0.32492307692307687
+115,Chinese Special Dish 115,Thai,Italian,2,Savory,1035,4.9,0.6830769230769231
+116,Asian Culinary Mix 116,Mexican,Indian,1,Cheesy,431,3.5,0.21723076923076923
+117,Thai Signature Meal 117,Thai,Thai,3,Creamy,1016,4.5,0.5972307692307692
+118,Chinese Chef Style 118,Japanese,Mexican,5,Sweet,549,4.3,0.4135384615384615
+119,Mexican Traditional Bowl 119,European,European,5,Creamy,901,4.5,0.5618461538461539
+120,Mediterranean Signature Meal 120,North Indian,Italian,1,Umami,409,4.8,0.47046153846153843
+121,Japanese Traditional Bowl 121,Japanese,Mexican,2,Umami,476,4.9,0.5110769230769232
+122,Korean House Special 122,Thai,American,3,Creamy,1426,3.4,0.5033846153846153
+123,Mediterranean Fusion Delight 123,North Indian,Korean,2,Savory,634,4.0,0.3796923076923077
+124,Mexican Traditional Bowl 124,Middle Eastern,Asian,2,Tangy,1956,4.6,0.9064615384615384
+125,Italian Special Dish 125,Mexican,Italian,4,Tangy,1706,3.3,0.5695384615384614
+126,Japanese Chef Style 126,Chinese,Korean,5,Spicy,508,3.2,0.18092307692307696
+127,Asian Traditional Bowl 127,Mexican,Indian,1,Tangy,1897,4.7,0.9083076923076924
+128,Mediterranean Chef Style 128,Mexican,Japanese,4,Cheesy,1387,4.6,0.7313846153846153
+129,Indian Special Dish 129,South Indian,Japanese,2,Umami,561,4.5,0.4572307692307692
+130,Indian Chef Style 130,Thai,Asian,1,Creamy,573,4.1,0.38092307692307686
+131,Asian House Special 131,Chinese,Asian,5,Spicy,688,3.7,0.33630769230769236
+132,Indian Traditional Bowl 132,Thai,European,5,Sweet,856,3.7,0.388
+133,Japanese Chef Style 133,Korean,European,2,Tangy,871,4.2,0.4926153846153847
+134,American Gourmet Item 134,Thai,Asian,4,Spicy,115,3.1,0.04000000000000002
+135,American Gourmet Item 135,European,European,3,Umami,1368,3.1,0.42553846153846153
+136,American Gourmet Item 136,Chinese,Mediterranean,2,Spicy,1883,3.4,0.6439999999999999
+137,Chinese Culinary Mix 137,Chinese,Asian,4,Sweet,522,3.9,0.3252307692307692
+138,European House Special 138,Korean,Chinese,3,Sweet,866,4.7,0.591076923076923
+139,Thai Fusion Delight 139,South Indian,Thai,4,Sweet,173,4.6,0.3578461538461538
+140,Mexican Culinary Mix 140,Chinese,Mediterranean,2,Cheesy,87,3.3,0.07138461538461535
+141,Korean Classic Plate 141,South Indian,Korean,2,Umami,988,4.1,0.5086153846153846
+142,European Special Dish 142,Japanese,Mediterranean,4,Creamy,577,3.7,0.30215384615384616
+143,Mexican Heritage Recipe 143,Chinese,Japanese,4,Tangy,1232,3.6,0.48369230769230775
+144,Thai Gourmet Item 144,Mexican,Asian,5,Cheesy,247,4.0,0.26061538461538464
+145,Japanese Classic Plate 145,European,Italian,1,Spicy,1640,4.5,0.7892307692307692
+146,Asian Fusion Delight 146,Mexican,American,4,Sweet,184,3.1,0.06123076923076925
+147,Italian Classic Plate 147,Italian,Thai,1,Sweet,103,3.0,0.016307692307692308
+148,Thai Gourmet Item 148,Italian,Indian,3,Sweet,1879,5.0,0.9627692307692307
+149,Italian Traditional Bowl 149,Chinese,Indian,2,Cheesy,1320,4.5,0.6907692307692308
+150,Chinese Gourmet Item 150,Mexican,Korean,1,Spicy,1557,3.4,0.5436923076923076
+151,Indian Special Dish 151,North Indian,Japanese,3,Umami,588,4.3,0.4255384615384615
+152,Korean House Special 152,Thai,Mediterranean,4,Creamy,1565,4.6,0.7861538461538461
+153,Japanese Special Dish 153,European,Mediterranean,2,Savory,795,4.2,0.46923076923076923
+154,Japanese Traditional Bowl 154,Middle Eastern,American,3,Sweet,608,4.0,0.37169230769230766
+155,Mediterranean Heritage Recipe 155,European,European,2,Umami,989,4.1,0.5089230769230768
+156,Mexican Culinary Mix 156,South Indian,European,1,Savory,699,4.4,0.47969230769230775
+157,European Classic Plate 157,North Indian,Asian,5,Spicy,1688,3.3,0.564
+158,Korean Signature Meal 158,European,Mediterranean,2,Tangy,728,3.3,0.2686153846153846
+159,Indian Culinary Mix 159,Mexican,Indian,2,Umami,1355,3.6,0.5215384615384615
+160,European Special Dish 160,Thai,Italian,3,Sweet,320,4.1,0.303076923076923
+161,American Heritage Recipe 161,Korean,Italian,3,Sweet,1172,3.3,0.40523076923076917
+162,American Gourmet Item 162,Italian,Korean,3,Creamy,708,3.1,0.22246153846153846
+163,Thai House Special 163,Middle Eastern,Italian,3,Tangy,323,3.6,0.20400000000000001
+164,European Culinary Mix 164,American,Mediterranean,3,Sweet,1807,3.9,0.7206153846153847
+165,Japanese Gourmet Item 165,American,Thai,5,Tangy,1614,3.3,0.5412307692307692
+166,Japanese Fusion Delight 166,South Indian,Mexican,5,Umami,956,4.2,0.5187692307692309
+167,Korean Signature Meal 167,Korean,Mexican,2,Tangy,659,4.7,0.5273846153846155
+168,Indian Fusion Delight 168,Korean,Korean,1,Creamy,1439,4.9,0.8073846153846155
+169,Thai House Special 169,Chinese,Mediterranean,1,Savory,183,3.2,0.08092307692307696
+170,Japanese Signature Meal 170,Italian,Asian,5,Spicy,346,4.8,0.45107692307692304
+171,Asian House Special 171,European,European,1,Tangy,720,3.3,0.26615384615384613
+172,Korean Fusion Delight 172,North Indian,Indian,1,Sweet,1731,3.3,0.5772307692307691
+173,Chinese Gourmet Item 173,Chinese,Mediterranean,4,Savory,1551,3.2,0.5018461538461538
+174,European Gourmet Item 174,Chinese,Asian,4,Cheesy,1570,4.5,0.7676923076923077
+175,American Traditional Bowl 175,Thai,Thai,3,Tangy,1759,4.3,0.7858461538461539
+176,Indian Heritage Recipe 176,Mexican,Asian,4,Sweet,1186,4.7,0.6895384615384617
+177,Italian Heritage Recipe 177,North Indian,Mexican,2,Cheesy,1716,4.2,0.7526153846153847
+178,American Chef Style 178,North Indian,Mediterranean,1,Cheesy,1955,3.2,0.6261538461538462
+179,Japanese House Special 179,North Indian,Korean,2,Umami,106,3.9,0.1972307692307692
+180,American Special Dish 180,Middle Eastern,Japanese,1,Creamy,1533,3.1,0.4763076923076923
+181,Korean Culinary Mix 181,American,Thai,5,Sweet,1062,4.5,0.6113846153846154
+182,Korean Fusion Delight 182,Italian,Asian,3,Cheesy,1037,3.1,0.3236923076923077
+183,Japanese Classic Plate 183,Japanese,American,2,Cheesy,810,3.3,0.2938461538461538
+184,Asian Classic Plate 184,Chinese,American,5,Sweet,847,4.2,0.48523076923076924
+185,Thai Traditional Bowl 185,Italian,Chinese,1,Savory,1641,4.9,0.8695384615384616
+186,Asian Gourmet Item 186,Japanese,Japanese,4,Cheesy,579,4.6,0.48276923076923073
+187,Mediterranean Signature Meal 187,North Indian,Japanese,4,Spicy,1707,4.1,0.7298461538461538
+188,Asian Heritage Recipe 188,Chinese,Asian,2,Cheesy,128,4.7,0.3640000000000001
+189,Chinese Culinary Mix 189,Thai,Chinese,5,Spicy,439,3.0,0.11969230769230768
+190,Thai Gourmet Item 190,Italian,Italian,3,Spicy,384,4.8,0.46276923076923077
+191,Japanese Traditional Bowl 191,European,Asian,3,Sweet,972,4.4,0.5636923076923077
+192,Thai Culinary Mix 192,Thai,Mediterranean,2,Spicy,366,4.0,0.29723076923076924
+193,Mexican Signature Meal 193,South Indian,Thai,2,Savory,1651,3.2,0.5326153846153846
+194,Indian Classic Plate 194,American,Mexican,5,Umami,1816,4.3,0.8033846153846154
+195,American House Special 195,Korean,Thai,3,Spicy,1860,3.1,0.576923076923077
+196,Mediterranean Special Dish 196,North Indian,Mediterranean,4,Tangy,96,4.2,0.2541538461538462
+197,American Heritage Recipe 197,Middle Eastern,Mediterranean,1,Sweet,1658,4.5,0.7947692307692308
+198,Mediterranean Culinary Mix 198,Korean,American,5,Tangy,737,4.6,0.5313846153846153
+199,Chinese Signature Meal 199,North Indian,Korean,3,Sweet,488,4.5,0.4347692307692308
+200,Chinese Heritage Recipe 200,Mexican,American,1,Sweet,827,3.8,0.39907692307692305
+201,Indian Classic Plate 201,European,Italian,4,Savory,1254,4.8,0.7304615384615385
+202,Asian Special Dish 202,Mexican,European,2,Tangy,1324,4.9,0.772
+203,Asian House Special 203,South Indian,Asian,2,Creamy,1671,3.8,0.6587692307692308
+204,American Classic Plate 204,Japanese,Asian,1,Cheesy,424,3.2,0.1550769230769231
+205,Japanese Culinary Mix 205,Thai,European,2,Spicy,1253,3.4,0.4501538461538461
+206,Indian Traditional Bowl 206,Italian,Indian,4,Tangy,1040,3.7,0.44461538461538463
+207,Indian House Special 207,Japanese,European,1,Cheesy,997,4.0,0.49138461538461536
+208,Mediterranean Classic Plate 208,Italian,Thai,3,Cheesy,1069,3.4,0.3935384615384615
+209,Mexican Traditional Bowl 209,North Indian,Mexican,4,Sweet,383,4.6,0.4224615384615384
+210,Korean Signature Meal 210,European,Indian,5,Savory,1940,3.6,0.7015384615384616
+211,American Traditional Bowl 211,Japanese,Indian,2,Creamy,873,4.8,0.6132307692307692
+212,Mediterranean Culinary Mix 212,Korean,European,4,Umami,1185,4.8,0.7092307692307692
+213,Chinese Special Dish 213,North Indian,Italian,1,Tangy,1994,4.9,0.9781538461538463
+214,Italian Signature Meal 214,Italian,Korean,4,Umami,1118,4.0,0.5286153846153846
+215,Japanese Traditional Bowl 215,Middle Eastern,Asian,5,Creamy,1531,4.6,0.7756923076923077
+216,Indian Traditional Bowl 216,Thai,Mexican,5,Spicy,217,3.4,0.13138461538461538
+217,Asian Gourmet Item 217,Japanese,European,1,Creamy,1197,3.4,0.43292307692307685
+218,American Traditional Bowl 218,Mexican,Chinese,3,Umami,585,4.3,0.4246153846153846
+219,Japanese Culinary Mix 219,Japanese,American,1,Creamy,604,3.3,0.23046153846153844
+220,Mediterranean Special Dish 220,South Indian,Asian,2,Creamy,1299,4.1,0.6043076923076922
+221,Mexican Culinary Mix 221,North Indian,Indian,2,Cheesy,747,3.1,0.23446153846153847
+222,Chinese Chef Style 222,European,Mexican,4,Savory,1404,4.6,0.7366153846153844
+223,Japanese House Special 223,Japanese,Indian,1,Savory,1372,4.1,0.6267692307692306
+224,Korean Heritage Recipe 224,Japanese,Thai,2,Creamy,143,3.1,0.04861538461538463
+225,Thai Heritage Recipe 225,Chinese,Mediterranean,2,Savory,1203,3.8,0.5147692307692306
+226,Asian Gourmet Item 226,North Indian,Mexican,5,Savory,1935,3.6,0.7
+227,Italian Heritage Recipe 227,South Indian,Japanese,2,Cheesy,1080,4.0,0.5169230769230769
+228,Japanese Gourmet Item 228,North Indian,Indian,3,Sweet,904,4.2,0.5027692307692309
+229,Indian Traditional Bowl 229,European,Mediterranean,3,Tangy,774,4.1,0.4427692307692307
+230,European Special Dish 230,American,Asian,5,Cheesy,1413,4.6,0.7393846153846153
+231,European House Special 231,Korean,Japanese,1,Savory,605,4.5,0.47076923076923083
+232,Italian Special Dish 232,Mexican,Indian,4,Sweet,1405,4.9,0.7969230769230771
+233,Indian Chef Style 233,Italian,Japanese,2,Creamy,121,4.7,0.36184615384615393
+234,Thai House Special 234,American,Chinese,5,Tangy,388,3.5,0.20400000000000001
+235,American Heritage Recipe 235,Japanese,Asian,5,Spicy,330,4.9,0.46615384615384625
+236,Japanese House Special 236,American,Indian,2,Tangy,1222,3.5,0.46061538461538465
+237,European House Special 237,Japanese,American,1,Umami,760,4.7,0.5584615384615386
+238,Italian Culinary Mix 238,Italian,Japanese,4,Spicy,518,3.3,0.20399999999999996
+239,Mexican Traditional Bowl 239,American,Italian,2,Savory,1519,4.9,0.8320000000000001
+240,Italian Traditional Bowl 240,Japanese,Indian,3,Cheesy,247,3.2,0.10061538461538465
+241,Mediterranean Fusion Delight 241,North Indian,Japanese,1,Spicy,1611,4.3,0.7403076923076922
+242,Italian House Special 242,Chinese,European,5,Tangy,1085,4.0,0.5184615384615385
+243,Mediterranean Fusion Delight 243,American,Korean,1,Savory,369,4.9,0.47815384615384626
+244,Chinese Signature Meal 244,South Indian,Indian,4,Spicy,232,4.4,0.3360000000000001
+245,Thai Culinary Mix 245,Japanese,Korean,5,Savory,1372,3.4,0.48676923076923073
+246,Mexican Traditional Bowl 246,Chinese,Mediterranean,3,Sweet,1730,3.7,0.6569230769230769
+247,Japanese Culinary Mix 247,Mexican,Indian,5,Savory,905,3.9,0.44307692307692303
+248,Japanese Culinary Mix 248,Japanese,Indian,1,Spicy,943,4.3,0.5347692307692307
+249,European Chef Style 249,European,Korean,2,Savory,1489,4.1,0.6627692307692307
+250,Japanese Fusion Delight 250,Middle Eastern,Korean,5,Sweet,1620,3.0,0.48307692307692307
+251,Korean Classic Plate 251,European,Korean,5,Sweet,1182,3.4,0.4283076923076923
+252,American Chef Style 252,North Indian,Thai,3,Sweet,949,4.2,0.5166153846153847
+253,Mexican Chef Style 253,Chinese,Japanese,4,Cheesy,436,3.9,0.2987692307692308
+254,Mediterranean Classic Plate 254,Thai,Indian,4,Sweet,1338,4.8,0.7563076923076923
+255,Asian Culinary Mix 255,North Indian,Thai,4,Creamy,1316,3.5,0.4895384615384616
+256,Korean Gourmet Item 256,American,Italian,1,Cheesy,1520,4.3,0.7123076923076923
+257,Thai House Special 257,South Indian,American,2,Spicy,1358,4.6,0.7224615384615385
+258,Italian Classic Plate 258,Middle Eastern,Asian,5,Umami,1159,3.2,0.3812307692307692
+259,Thai Culinary Mix 259,South Indian,American,5,Spicy,818,3.0,0.2363076923076923
+260,European Special Dish 260,Mexican,Korean,3,Cheesy,1925,3.6,0.6969230769230769
+261,Italian Classic Plate 261,Thai,American,2,Creamy,1129,3.9,0.512
+262,European Heritage Recipe 262,Middle Eastern,Asian,4,Sweet,770,3.8,0.3815384615384615
+263,Chinese Chef Style 263,Mexican,Asian,3,Savory,1551,3.3,0.5218461538461537
+264,Japanese Special Dish 264,Middle Eastern,Asian,5,Cheesy,1761,4.5,0.8264615384615385
+265,Japanese Traditional Bowl 265,American,Chinese,4,Spicy,1579,4.6,0.7904615384615383
+266,Thai Signature Meal 266,Japanese,American,1,Creamy,1317,4.3,0.6498461538461537
+267,American Fusion Delight 267,Middle Eastern,Mexican,5,Umami,1295,3.5,0.48307692307692307
+268,Indian Gourmet Item 268,Thai,Japanese,3,Savory,1827,3.2,0.5867692307692308
+269,Korean Traditional Bowl 269,North Indian,Chinese,1,Spicy,1024,4.6,0.6196923076923075
+270,Japanese Heritage Recipe 270,Mexican,Korean,3,Sweet,1476,3.5,0.5387692307692308
+271,Italian Traditional Bowl 271,Thai,Japanese,1,Umami,1340,3.2,0.4369230769230769
+272,Chinese House Special 272,Mexican,Chinese,5,Spicy,1863,3.2,0.5978461538461538
+273,European Chef Style 273,European,Chinese,4,Creamy,1324,4.2,0.632
+274,Korean Heritage Recipe 274,Japanese,Mexican,1,Savory,776,3.8,0.3833846153846153
+275,Indian Traditional Bowl 275,South Indian,Thai,1,Sweet,485,4.2,0.3738461538461539
+276,Chinese Chef Style 276,European,Korean,1,Spicy,1378,3.5,0.5086153846153846
+277,Asian Classic Plate 277,South Indian,Mexican,4,Tangy,290,3.5,0.17384615384615387
+278,Mexican Fusion Delight 278,Japanese,Chinese,5,Sweet,430,4.5,0.41692307692307695
+279,Chinese Culinary Mix 279,South Indian,Indian,2,Tangy,1339,3.1,0.4166153846153846
+280,Asian Classic Plate 280,South Indian,Asian,5,Tangy,1842,3.5,0.6513846153846153
+281,Mexican Special Dish 281,Mexican,Chinese,1,Creamy,1459,3.9,0.6135384615384615
+282,Japanese Traditional Bowl 282,Mexican,Japanese,4,Cheesy,1680,4.5,0.8015384615384615
+283,Italian Signature Meal 283,Thai,Korean,1,Spicy,1238,4.8,0.7255384615384615
+284,American Special Dish 284,Middle Eastern,Japanese,3,Creamy,1906,4.5,0.8710769230769231
+285,Asian House Special 285,Thai,Japanese,1,Cheesy,210,4.9,0.42923076923076936
+286,Indian House Special 286,Italian,American,4,Savory,1921,3.3,0.6356923076923077
+287,Mexican Classic Plate 287,North Indian,Thai,2,Savory,292,4.9,0.4544615384615386
+288,Thai Classic Plate 288,Thai,European,2,Creamy,1316,4.0,0.5895384615384616
+289,Korean Traditional Bowl 289,Middle Eastern,Japanese,1,Umami,792,3.8,0.3883076923076923
+290,Korean Culinary Mix 290,North Indian,Indian,1,Tangy,1491,3.1,0.46338461538461534
+291,Chinese Culinary Mix 291,American,Indian,5,Creamy,1275,3.4,0.4569230769230769
+292,Korean Chef Style 292,South Indian,Japanese,1,Creamy,276,3.2,0.10953846153846157
+293,Mexican Traditional Bowl 293,American,Mexican,1,Savory,746,4.2,0.4541538461538462
+294,Korean Fusion Delight 294,European,Mexican,1,Spicy,1756,4.6,0.8449230769230769
+295,Mediterranean Heritage Recipe 295,American,Italian,4,Umami,1808,3.2,0.5809230769230769
+296,Mexican Traditional Bowl 296,Korean,Thai,2,Sweet,878,4.6,0.5747692307692307
+297,American Culinary Mix 297,Korean,European,3,Spicy,1889,3.6,0.6858461538461538
+298,American Culinary Mix 298,Japanese,Indian,3,Savory,1636,3.4,0.568
+299,Asian Special Dish 299,European,American,5,Tangy,1473,4.9,0.8178461538461539
+300,Japanese Traditional Bowl 300,American,American,2,Umami,137,4.6,0.3467692307692307
+301,Thai Special Dish 301,North Indian,Italian,2,Spicy,1877,4.3,0.822153846153846
+302,European House Special 302,North Indian,Italian,4,Sweet,1441,3.0,0.428
+303,Asian Chef Style 303,North Indian,European,3,Creamy,986,4.4,0.5680000000000001
+304,Korean Special Dish 304,North Indian,Chinese,2,Cheesy,1833,3.6,0.6686153846153846
+305,Asian Signature Meal 305,Korean,Italian,1,Cheesy,76,4.9,0.3880000000000001
+306,Thai House Special 306,South Indian,American,1,Savory,781,3.2,0.26492307692307693
+307,European Special Dish 307,South Indian,Thai,1,Umami,372,4.9,0.4790769230769232
+308,Mediterranean Gourmet Item 308,American,European,4,Cheesy,58,4.0,0.20246153846153847
+309,Mediterranean Chef Style 309,American,Korean,1,Sweet,394,3.9,0.28584615384615386
+310,Indian Culinary Mix 310,Italian,Indian,2,Tangy,1293,3.0,0.38246153846153846
+311,Thai Signature Meal 311,European,Mediterranean,4,Tangy,607,4.0,0.37138461538461537
+312,Asian Fusion Delight 312,American,Japanese,1,Cheesy,1773,4.2,0.7701538461538462
+313,Thai Special Dish 313,Thai,Korean,2,Tangy,859,4.5,0.548923076923077
+314,American Classic Plate 314,Japanese,European,3,Creamy,187,3.6,0.16215384615384618
+315,Korean Chef Style 315,Mexican,Thai,2,Spicy,1463,4.2,0.6747692307692308
+316,Chinese Traditional Bowl 316,North Indian,Asian,1,Umami,304,3.1,0.09815384615384616
+317,Mediterranean Signature Meal 317,Korean,Asian,4,Tangy,276,3.1,0.08953846153846155
+318,Asian Traditional Bowl 318,South Indian,Thai,1,Savory,431,3.3,0.1772307692307692
+319,Mediterranean Signature Meal 319,Mexican,Mexican,4,Cheesy,1220,4.8,0.72
+320,Italian Signature Meal 320,Chinese,Thai,2,Sweet,1403,3.9,0.5963076923076923
+321,Mexican House Special 321,Middle Eastern,Italian,4,Umami,942,4.5,0.5744615384615385
+322,Mexican Culinary Mix 322,South Indian,Asian,2,Umami,1049,3.5,0.40738461538461546
+323,Chinese Classic Plate 323,European,European,2,Sweet,1111,3.0,0.3264615384615384
+324,Japanese House Special 324,American,Thai,3,Tangy,1125,3.5,0.4307692307692308
+325,Chinese Special Dish 325,Middle Eastern,Asian,1,Cheesy,1919,4.0,0.775076923076923
+326,Korean Fusion Delight 326,Chinese,American,1,Savory,500,4.4,0.41846153846153855
+327,Chinese Classic Plate 327,Middle Eastern,Italian,4,Tangy,923,3.9,0.4486153846153846
+328,Italian Heritage Recipe 328,Italian,Chinese,2,Cheesy,491,4.2,0.37569230769230777
+329,Asian House Special 329,Thai,Japanese,4,Savory,1914,4.8,0.9335384615384615
+330,Italian Traditional Bowl 330,Korean,Italian,2,Cheesy,1877,3.5,0.6621538461538461
+331,European Gourmet Item 331,Middle Eastern,Mexican,3,Savory,1755,4.3,0.7846153846153845
+332,European Gourmet Item 332,Japanese,Thai,1,Cheesy,1053,4.5,0.6086153846153847
+333,Thai Special Dish 333,Italian,American,5,Umami,1227,4.4,0.6421538461538463
+334,Korean Classic Plate 334,Mexican,American,4,Cheesy,1893,4.8,0.927076923076923
+335,Italian House Special 335,European,Mediterranean,4,Cheesy,1694,3.9,0.6858461538461538
+336,Thai Gourmet Item 336,Korean,Chinese,2,Cheesy,1415,3.8,0.58
+337,Thai Heritage Recipe 337,South Indian,Korean,4,Spicy,246,4.7,0.40030769230769236
+338,Indian Traditional Bowl 338,Mexican,Mediterranean,1,Umami,253,3.2,0.10246153846153849
+339,Thai Gourmet Item 339,Korean,Italian,3,Sweet,243,4.0,0.2593846153846154
+340,Mexican Signature Meal 340,South Indian,Mediterranean,3,Tangy,349,4.6,0.4119999999999999
+341,European Gourmet Item 341,Japanese,Japanese,2,Creamy,1008,5.0,0.6947692307692308
+342,American Chef Style 342,Mexican,Thai,3,Spicy,805,3.1,0.25230769230769234
+343,Mediterranean Special Dish 343,European,Italian,1,Umami,1898,4.4,0.8486153846153848
+344,European Culinary Mix 344,American,Mediterranean,2,Tangy,665,3.6,0.30923076923076925
+345,Mediterranean Signature Meal 345,European,Indian,5,Savory,704,4.9,0.5812307692307693
+346,Chinese Traditional Bowl 346,Italian,Indian,5,Savory,1158,3.2,0.380923076923077
+347,Chinese Special Dish 347,North Indian,Italian,1,Tangy,235,3.7,0.19692307692307695
+348,Indian Traditional Bowl 348,Italian,Thai,4,Cheesy,1545,3.1,0.48000000000000004
+349,Indian Gourmet Item 349,South Indian,Korean,3,Sweet,393,3.2,0.14553846153846156
+350,Thai Fusion Delight 350,Japanese,Japanese,4,Sweet,500,4.7,0.47846153846153855
+351,Mediterranean Chef Style 351,American,Japanese,4,Sweet,88,3.6,0.13169230769230772
+352,Mexican Chef Style 352,Italian,Asian,1,Cheesy,276,3.3,0.1295384615384615
+353,Korean Classic Plate 353,Japanese,Thai,2,Cheesy,1228,4.0,0.5624615384615385
+354,American Classic Plate 354,European,European,4,Spicy,1829,4.8,0.9073846153846153
+355,Italian Chef Style 355,Chinese,Thai,2,Cheesy,453,3.9,0.304
+356,American House Special 356,Thai,Asian,5,Tangy,1881,3.4,0.6433846153846153
+357,Chinese Heritage Recipe 357,American,Japanese,2,Umami,1615,4.4,0.7615384615384616
+358,Mediterranean Special Dish 358,European,Japanese,2,Spicy,1515,5.0,0.8507692307692307
+359,Mexican Signature Meal 359,Japanese,Japanese,5,Savory,1225,4.4,0.6415384615384616
+360,Italian House Special 360,American,Indian,1,Spicy,735,3.2,0.25076923076923074
+361,Chinese Special Dish 361,Mexican,Italian,3,Creamy,63,4.8,0.364
+362,Thai Culinary Mix 362,Italian,Mediterranean,2,Savory,346,4.4,0.3710769230769232
+363,Mexican Signature Meal 363,Mexican,Indian,2,Spicy,1737,4.7,0.8590769230769231
+364,European Fusion Delight 364,Korean,Italian,4,Tangy,1475,4.8,0.7984615384615383
+365,American Special Dish 365,Thai,Mexican,4,Cheesy,834,3.7,0.38123076923076926
+366,Thai Traditional Bowl 366,American,Chinese,2,Umami,356,3.8,0.2541538461538461
+367,Asian Classic Plate 367,Middle Eastern,European,4,Sweet,962,3.5,0.3806153846153846
+368,Italian Signature Meal 368,Japanese,Italian,1,Savory,935,4.2,0.5123076923076924
+369,Mexican Classic Plate 369,South Indian,Chinese,3,Sweet,1785,4.4,0.8138461538461539
+370,Thai Classic Plate 370,South Indian,European,3,Tangy,1163,3.4,0.42246153846153844
+371,Korean Traditional Bowl 371,Middle Eastern,American,5,Sweet,111,3.2,0.05876923076923081
+372,Asian Culinary Mix 372,North Indian,Korean,3,Creamy,426,3.8,0.2756923076923077
+373,Mexican Culinary Mix 373,Japanese,Thai,5,Cheesy,155,4.0,0.23230769230769233
+374,Mexican Classic Plate 374,Thai,Japanese,3,Savory,1856,3.6,0.6756923076923076
+375,Japanese Fusion Delight 375,South Indian,American,4,Creamy,1938,3.1,0.6009230769230769
+376,Japanese Culinary Mix 376,South Indian,Japanese,4,Spicy,531,4.1,0.36799999999999994
+377,Chinese Signature Meal 377,Italian,Japanese,5,Cheesy,984,3.2,0.3273846153846154
+378,European Culinary Mix 378,Italian,Indian,5,Spicy,1808,4.8,0.9009230769230768
+379,Italian Gourmet Item 379,Thai,American,1,Sweet,484,4.1,0.35353846153846147
+380,Mexican Culinary Mix 380,Chinese,American,4,Sweet,666,4.2,0.4295384615384616
+381,European Classic Plate 381,Italian,Mexican,5,Creamy,713,3.8,0.364
+382,Asian Signature Meal 382,Chinese,Thai,2,Savory,491,4.6,0.4556923076923076
+383,Asian Culinary Mix 383,European,American,5,Sweet,1786,3.9,0.7141538461538461
+384,Mexican Gourmet Item 384,Chinese,Asian,1,Tangy,1448,4.1,0.6501538461538461
+385,Chinese Fusion Delight 385,North Indian,Korean,3,Sweet,1455,4.8,0.7923076923076923
+386,Korean Traditional Bowl 386,American,Thai,2,Cheesy,230,3.7,0.19538461538461543
+387,Italian Culinary Mix 387,European,American,3,Savory,412,4.5,0.4113846153846154
+388,Asian Classic Plate 388,Korean,Indian,1,Creamy,1902,3.0,0.5698461538461538
+389,Chinese Chef Style 389,Middle Eastern,Thai,1,Sweet,1813,4.1,0.7624615384615384
+390,Italian Special Dish 390,North Indian,Thai,3,Savory,1685,3.4,0.583076923076923
+391,Indian Gourmet Item 391,American,Italian,3,Creamy,395,4.3,0.3661538461538461
+392,Mediterranean Classic Plate 392,South Indian,Mediterranean,1,Tangy,1728,4.9,0.8963076923076924
+393,Mediterranean Gourmet Item 393,North Indian,Indian,5,Umami,540,4.3,0.4107692307692307
+394,Italian Traditional Bowl 394,Japanese,Asian,5,Umami,1558,3.9,0.6439999999999999
+395,Korean Gourmet Item 395,Italian,Asian,1,Sweet,1113,4.2,0.5670769230769231
+396,Japanese Signature Meal 396,Mexican,European,5,Umami,1374,3.9,0.5873846153846154
+397,Asian Traditional Bowl 397,Thai,Asian,1,Creamy,1608,3.1,0.49938461538461537
+398,European Gourmet Item 398,Korean,Indian,1,Savory,1878,4.6,0.8824615384615384
+399,Japanese Fusion Delight 399,Mexican,Italian,4,Umami,638,3.4,0.2609230769230769
+400,Italian Gourmet Item 400,Japanese,Mediterranean,4,Creamy,161,3.1,0.05415384615384617
+401,Indian Traditional Bowl 401,North Indian,European,3,Spicy,495,3.8,0.2969230769230769
+402,Chinese Chef Style 402,Italian,Mexican,4,Creamy,1843,3.9,0.7316923076923076
+403,European Traditional Bowl 403,Japanese,European,5,Umami,817,3.9,0.416
+404,Indian Signature Meal 404,South Indian,Thai,1,Sweet,387,3.0,0.1036923076923077
+405,Mexican Special Dish 405,Thai,Japanese,2,Sweet,452,3.3,0.18369230769230765
+406,Mediterranean Special Dish 406,European,European,1,Sweet,1720,3.8,0.6738461538461538
+407,Mediterranean Chef Style 407,Mexican,Chinese,2,Cheesy,1178,3.3,0.407076923076923
+408,American Chef Style 408,European,Thai,5,Savory,810,5.0,0.6338461538461538
+409,Korean Chef Style 409,South Indian,Mediterranean,2,Umami,413,3.2,0.15169230769230774
+410,Mediterranean Gourmet Item 410,Chinese,Korean,3,Cheesy,144,4.3,0.2889230769230769
+411,Korean Culinary Mix 411,Mexican,Asian,5,Umami,658,3.2,0.22707692307692312
+412,Asian Traditional Bowl 412,Korean,Mediterranean,1,Savory,1076,3.3,0.37569230769230766
+413,Italian House Special 413,European,Mexican,1,Sweet,914,3.3,0.3258461538461538
+414,Mediterranean Special Dish 414,Chinese,Thai,1,Creamy,711,4.4,0.4833846153846154
+415,Japanese Gourmet Item 415,Japanese,Thai,4,Umami,1956,4.2,0.8264615384615386
+416,Italian Chef Style 416,American,Chinese,3,Cheesy,1183,4.8,0.7086153846153846
+417,Thai Chef Style 417,South Indian,Korean,4,Sweet,1455,4.7,0.7723076923076924
+418,American Signature Meal 418,European,Mexican,5,Creamy,1986,3.0,0.5956923076923077
+419,Chinese Classic Plate 419,South Indian,Thai,5,Spicy,1407,4.9,0.7975384615384616
+420,American Classic Plate 420,Korean,Japanese,3,Savory,1120,4.9,0.7092307692307693
+421,Thai House Special 421,Mexican,Mexican,5,Savory,1401,3.6,0.5356923076923077
+422,Thai Chef Style 422,Chinese,Italian,4,Cheesy,1126,4.6,0.651076923076923
+423,Mediterranean House Special 423,South Indian,Chinese,2,Sweet,862,4.3,0.5098461538461538
+424,Indian Signature Meal 424,Middle Eastern,Japanese,5,Savory,1061,4.7,0.6510769230769231
+425,Chinese Special Dish 425,European,Italian,3,Savory,1903,3.9,0.7501538461538462
+426,Mediterranean Heritage Recipe 426,Thai,Japanese,4,Savory,434,3.7,0.2581538461538462
+427,Japanese House Special 427,Middle Eastern,Chinese,2,Savory,125,3.4,0.10307692307692307
+428,Thai Gourmet Item 428,Korean,Mediterranean,3,Spicy,1572,4.9,0.8483076923076924
+429,Mexican Gourmet Item 429,Middle Eastern,Italian,2,Cheesy,412,4.1,0.33138461538461533
+430,Korean House Special 430,Japanese,Mediterranean,2,Savory,69,4.8,0.3658461538461538
+431,Thai Culinary Mix 431,Middle Eastern,Mexican,2,Sweet,1525,4.7,0.7938461538461539
+432,American Classic Plate 432,Italian,Italian,4,Tangy,1939,3.6,0.7012307692307692
+433,Asian Heritage Recipe 433,Chinese,Italian,4,Sweet,335,3.7,0.22769230769230775
+434,Korean Gourmet Item 434,Japanese,Mexican,3,Creamy,472,3.4,0.20984615384615382
+435,Thai House Special 435,Italian,Mexican,5,Cheesy,529,3.2,0.1873846153846154
+436,Mexican Signature Meal 436,Mexican,American,1,Sweet,457,4.9,0.5052307692307694
+437,European House Special 437,American,European,2,Savory,1578,4.0,0.6701538461538461
+438,Japanese Heritage Recipe 438,North Indian,Mediterranean,2,Umami,1624,4.2,0.7243076923076923
+439,Italian Chef Style 439,Mexican,Thai,5,Creamy,279,3.7,0.2104615384615385
+440,Italian House Special 440,Korean,Indian,1,Savory,1043,3.9,0.48553846153846153
+441,Indian Gourmet Item 441,American,Thai,5,Cheesy,179,3.9,0.2196923076923077
+442,Mediterranean Classic Plate 442,Korean,Indian,2,Tangy,1399,3.5,0.5150769230769231
+443,Thai Chef Style 443,Middle Eastern,Chinese,5,Savory,723,3.6,0.3270769230769231
+444,Japanese Fusion Delight 444,Middle Eastern,Korean,4,Cheesy,1288,3.7,0.5209230769230769
+445,Thai Gourmet Item 445,South Indian,Chinese,4,Savory,524,4.3,0.4058461538461538
+446,Thai Traditional Bowl 446,Mexican,Mediterranean,1,Spicy,1068,4.5,0.6132307692307692
+447,Asian Chef Style 447,Italian,American,5,Creamy,1931,4.5,0.8787692307692309
+448,Mediterranean Classic Plate 448,American,Chinese,1,Sweet,106,3.2,0.057230769230769266
+449,Korean Special Dish 449,Mexican,Japanese,2,Creamy,1800,4.4,0.8184615384615386
+450,American Fusion Delight 450,Italian,Thai,3,Creamy,1552,4.4,0.7421538461538462
+451,Asian House Special 451,Japanese,Japanese,4,Umami,991,3.2,0.32953846153846156
+452,Chinese Heritage Recipe 452,Thai,Mexican,5,Savory,436,4.5,0.4187692307692308
+453,American Chef Style 453,Chinese,Italian,3,Creamy,434,4.0,0.3181538461538462
+454,Mexican Heritage Recipe 454,North Indian,Thai,4,Cheesy,704,3.4,0.28123076923076923
+455,Asian Chef Style 455,Chinese,Korean,3,Savory,1183,3.3,0.4086153846153846
+456,Thai House Special 456,Mexican,Japanese,3,Sweet,1160,3.5,0.44153846153846155
+457,Asian Heritage Recipe 457,Korean,Thai,3,Spicy,1137,4.9,0.7144615384615385
+458,Italian Gourmet Item 458,Italian,Asian,3,Tangy,1045,4.3,0.566153846153846
+459,Asian Chef Style 459,Chinese,American,3,Creamy,1665,4.9,0.876923076923077
+460,Korean Classic Plate 460,Italian,European,5,Savory,1851,3.7,0.6941538461538461
+461,Mediterranean Gourmet Item 461,Mexican,European,2,Savory,604,3.3,0.23046153846153844
+462,Indian Culinary Mix 462,American,Korean,4,Cheesy,815,5.0,0.6353846153846154
+463,Chinese Special Dish 463,Thai,Japanese,1,Savory,885,4.0,0.45692307692307693
+464,American Traditional Bowl 464,Mexican,Indian,1,Umami,1471,3.8,0.5972307692307692
+465,European Chef Style 465,Japanese,Japanese,2,Sweet,1203,3.1,0.37476923076923074
+466,Indian Classic Plate 466,North Indian,Asian,2,Cheesy,1713,3.6,0.6316923076923077
+467,European House Special 467,North Indian,Chinese,4,Tangy,1209,3.0,0.3566153846153846
+468,Chinese Gourmet Item 468,Thai,American,5,Savory,1042,4.8,0.6652307692307693
+469,Japanese Traditional Bowl 469,Middle Eastern,American,4,Sweet,1586,4.0,0.6726153846153846
+470,Japanese Fusion Delight 470,Japanese,Asian,3,Savory,1395,4.7,0.7538461538461538
+471,Korean Signature Meal 471,Thai,Korean,5,Creamy,1461,3.5,0.5341538461538462
+472,Asian Fusion Delight 472,American,Indian,1,Umami,381,4.4,0.38184615384615395
+473,European Signature Meal 473,Japanese,European,3,Savory,1029,3.1,0.3212307692307692
+474,Italian Chef Style 474,Mexican,Mediterranean,2,Tangy,185,4.1,0.2615384615384615
+475,Indian House Special 475,American,American,2,Spicy,1816,3.0,0.5433846153846154
+476,European Traditional Bowl 476,Chinese,Indian,4,Cheesy,724,3.9,0.3873846153846154
+477,Chinese Gourmet Item 477,Mexican,Italian,4,Savory,189,4.7,0.38276923076923086
+478,American Chef Style 478,Thai,Asian,4,Sweet,167,3.5,0.136
+479,European House Special 479,South Indian,Indian,4,Savory,867,3.6,0.3713846153846154
+480,American House Special 480,Thai,European,5,Savory,1973,3.3,0.6516923076923076
+481,Japanese Fusion Delight 481,American,Asian,2,Spicy,678,4.9,0.5732307692307693
+482,European Classic Plate 482,South Indian,Mediterranean,1,Sweet,333,3.0,0.08707692307692307
+483,American Signature Meal 483,European,American,4,Creamy,1812,4.8,0.9021538461538462
+484,European Culinary Mix 484,Italian,Mexican,5,Savory,667,3.0,0.18984615384615383
+485,European Heritage Recipe 485,Mexican,Thai,1,Umami,1556,4.7,0.8033846153846155
+486,Indian Fusion Delight 486,Chinese,American,1,Savory,1334,5.0,0.795076923076923
+487,Thai Chef Style 487,Japanese,Mexican,2,Creamy,1597,4.4,0.756
+488,Asian Culinary Mix 488,Japanese,Japanese,3,Cheesy,732,4.7,0.5498461538461539
+489,Korean Traditional Bowl 489,Mexican,Thai,4,Umami,1842,4.0,0.7513846153846153
+490,Korean Traditional Bowl 490,South Indian,Japanese,3,Creamy,1797,4.5,0.8375384615384616
+491,Chinese Signature Meal 491,South Indian,Mexican,4,Tangy,404,3.8,0.2689230769230769
+492,European Classic Plate 492,Thai,Italian,3,Cheesy,545,3.9,0.3323076923076923
+493,Thai Classic Plate 493,American,American,5,Cheesy,434,4.8,0.47815384615384615
+494,American Classic Plate 494,North Indian,European,3,Creamy,962,4.6,0.6006153846153846
+495,Mediterranean Culinary Mix 495,Mexican,Korean,4,Sweet,1337,3.8,0.556
+496,Italian Gourmet Item 496,Japanese,Mediterranean,2,Spicy,1084,4.2,0.5581538461538462
+497,European Traditional Bowl 497,Chinese,Asian,3,Spicy,967,3.7,0.4221538461538462
+498,Chinese Classic Plate 498,Japanese,Chinese,4,Creamy,1072,4.3,0.5744615384615384
+499,European Special Dish 499,North Indian,Chinese,3,Sweet,1491,4.3,0.7033846153846153
+500,Japanese Heritage Recipe 500,North Indian,Italian,4,Sweet,868,4.7,0.5916923076923077
+501,Korean Signature Meal 501,Italian,Japanese,3,Cheesy,686,4.7,0.5356923076923077
+502,European Gourmet Item 502,Chinese,American,3,Savory,346,4.6,0.411076923076923
+503,Italian Chef Style 503,European,Asian,4,Creamy,550,4.3,0.41384615384615375
+504,Italian Fusion Delight 504,Thai,Italian,5,Umami,569,3.1,0.17969230769230768
+505,Mexican House Special 505,North Indian,Asian,4,Tangy,1182,4.8,0.7083076923076923
+506,European Culinary Mix 506,South Indian,European,2,Sweet,150,3.2,0.0707692307692308
+507,Indian Special Dish 507,Mexican,Korean,2,Sweet,1928,3.4,0.6578461538461537
+508,Chinese Gourmet Item 508,Japanese,European,2,Umami,516,3.7,0.28338461538461546
+509,Italian Fusion Delight 509,American,Indian,2,Spicy,239,4.3,0.3181538461538461
+510,Indian Traditional Bowl 510,Thai,European,3,Umami,300,4.0,0.27692307692307694
+511,Korean Special Dish 511,North Indian,Korean,5,Cheesy,1739,3.7,0.6596923076923077
+512,Indian Fusion Delight 512,Chinese,Japanese,1,Creamy,828,4.8,0.5993846153846154
+513,Asian House Special 513,Middle Eastern,American,1,Sweet,1017,3.0,0.29753846153846153
+514,Mediterranean Gourmet Item 514,Thai,Mexican,4,Cheesy,1149,3.1,0.35815384615384616
+515,Thai Signature Meal 515,Mexican,Japanese,2,Cheesy,451,4.8,0.48338461538461536
+516,American Culinary Mix 516,South Indian,Chinese,5,Savory,1487,4.5,0.7421538461538462
+517,Mexican Heritage Recipe 517,Middle Eastern,Korean,1,Sweet,1120,4.4,0.6092307692307694
+518,Mexican Heritage Recipe 518,American,Asian,4,Tangy,1050,3.5,0.4076923076923077
+519,Korean Gourmet Item 519,Japanese,Mexican,4,Creamy,357,3.8,0.25446153846153846
+520,Indian House Special 520,European,Thai,4,Tangy,674,3.0,0.192
+521,Chinese Chef Style 521,Chinese,Italian,3,Savory,1932,3.7,0.7190769230769231
+522,Mexican Heritage Recipe 522,Mexican,Japanese,5,Cheesy,712,3.6,0.3236923076923077
+523,Asian Classic Plate 523,Middle Eastern,Italian,2,Sweet,1188,3.8,0.5101538461538462
+524,Asian Fusion Delight 524,North Indian,Chinese,1,Creamy,1443,3.3,0.48861538461538456
+525,Indian Special Dish 525,European,Thai,4,Tangy,995,4.2,0.5307692307692309
+526,Mexican House Special 526,Thai,Mediterranean,5,Spicy,124,4.0,0.22276923076923077
+527,Korean Chef Style 527,European,Thai,2,Creamy,1992,4.8,0.9575384615384614
+528,Asian Heritage Recipe 528,South Indian,American,4,Tangy,1726,3.1,0.5356923076923077
+529,Mediterranean Chef Style 529,North Indian,Mediterranean,1,Cheesy,1407,3.0,0.4175384615384615
+530,Mexican Signature Meal 530,Chinese,Mexican,4,Tangy,1845,3.0,0.5523076923076923
+531,Indian Heritage Recipe 531,Chinese,Japanese,4,Tangy,1743,4.0,0.720923076923077
+532,Chinese Special Dish 532,Chinese,Chinese,4,Tangy,1510,4.3,0.7092307692307691
+533,Asian Classic Plate 533,Italian,Asian,1,Savory,1998,3.9,0.7793846153846153
+534,American Fusion Delight 534,Japanese,Asian,5,Creamy,1407,4.0,0.6175384615384616
+535,Japanese Chef Style 535,Japanese,American,4,Savory,330,3.0,0.08615384615384615
+536,American Fusion Delight 536,Thai,Korean,3,Spicy,1332,4.9,0.7744615384615385
+537,Italian Gourmet Item 537,American,American,3,Savory,1012,3.8,0.45599999999999996
+538,European Traditional Bowl 538,European,Chinese,2,Tangy,170,3.8,0.1969230769230769
+539,Japanese House Special 539,Chinese,Indian,3,Cheesy,1523,3.0,0.4532307692307692
+540,Thai Culinary Mix 540,Italian,Korean,3,Cheesy,1017,3.8,0.4575384615384615
+541,Chinese Gourmet Item 541,Korean,Italian,1,Tangy,117,3.6,0.14061538461538464
+542,American House Special 542,American,Italian,2,Spicy,1388,4.1,0.6316923076923076
+543,American Gourmet Item 543,Korean,Indian,3,Creamy,1127,3.7,0.4713846153846154
+544,Chinese Heritage Recipe 544,Thai,Thai,3,Savory,1804,3.6,0.6596923076923077
+545,Indian Heritage Recipe 545,Middle Eastern,Mexican,2,Savory,914,3.8,0.4258461538461538
+546,Indian Traditional Bowl 546,European,European,5,Savory,566,3.6,0.27876923076923077
+547,Mexican Traditional Bowl 547,American,American,5,Cheesy,1636,3.2,0.528
+548,American Culinary Mix 548,European,Indian,5,Spicy,1346,4.9,0.7787692307692309
+549,Mexican Chef Style 549,Chinese,Mexican,5,Sweet,772,3.8,0.3821538461538461
+550,Chinese Classic Plate 550,Korean,Italian,2,Savory,1308,4.9,0.7670769230769232
+551,Italian Chef Style 551,Mexican,American,1,Sweet,1653,3.1,0.5132307692307693
+552,Italian Special Dish 552,Chinese,Korean,5,Umami,1589,4.7,0.8135384615384615
+553,Thai Culinary Mix 553,Middle Eastern,Japanese,3,Savory,169,4.7,0.3766153846153847
+554,American Traditional Bowl 554,Middle Eastern,Japanese,2,Creamy,1260,4.1,0.5923076923076922
+555,Mediterranean Gourmet Item 555,Thai,Mexican,5,Spicy,560,3.9,0.3369230769230769
+556,Chinese Chef Style 556,Italian,Asian,3,Tangy,121,4.0,0.22184615384615386
+557,Indian Culinary Mix 557,Thai,Italian,2,Tangy,573,3.9,0.3409230769230769
+558,American Culinary Mix 558,South Indian,Thai,3,Spicy,1013,4.9,0.6763076923076924
+559,Asian Special Dish 559,Korean,Asian,1,Creamy,712,4.6,0.5236923076923077
+560,European Chef Style 560,Chinese,American,4,Cheesy,1535,4.0,0.6569230769230769
+561,Chinese Culinary Mix 561,North Indian,Mediterranean,5,Savory,853,4.8,0.6070769230769231
+562,Japanese Chef Style 562,European,Chinese,1,Sweet,338,3.6,0.20861538461538465
+563,Mediterranean House Special 563,South Indian,Mexican,3,Spicy,1893,3.9,0.747076923076923
+564,Mediterranean Culinary Mix 564,Korean,Italian,5,Tangy,805,4.6,0.5523076923076923
+565,American Signature Meal 565,North Indian,European,5,Cheesy,1048,3.1,0.3270769230769231
+566,Japanese Traditional Bowl 566,Mexican,American,2,Creamy,1022,4.2,0.5390769230769231
+567,Mexican Culinary Mix 567,South Indian,Italian,2,Cheesy,1810,3.9,0.7215384615384615
+568,American Special Dish 568,European,Chinese,5,Umami,1406,3.6,0.5372307692307693
+569,Chinese Heritage Recipe 569,Korean,Korean,1,Spicy,1302,3.7,0.5252307692307693
+570,American Fusion Delight 570,Mexican,Thai,4,Umami,1719,4.5,0.8135384615384615
+571,Chinese House Special 571,Chinese,American,5,Cheesy,841,4.4,0.5233846153846154
+572,Thai Special Dish 572,Thai,Korean,2,Sweet,1977,3.3,0.6529230769230768
+573,Chinese Traditional Bowl 573,North Indian,Mediterranean,2,Savory,1927,3.9,0.7575384615384615
+574,Italian Signature Meal 574,European,Chinese,3,Savory,89,4.1,0.23199999999999996
+575,European Chef Style 575,North Indian,Japanese,2,Savory,924,4.3,0.5289230769230768
+576,Italian Heritage Recipe 576,Korean,American,3,Tangy,263,4.3,0.3255384615384615
+577,Indian Classic Plate 577,North Indian,Thai,5,Umami,1949,4.0,0.7843076923076924
+578,Japanese Classic Plate 578,American,Indian,4,Tangy,109,3.1,0.03815384615384617
+579,Chinese Gourmet Item 579,South Indian,American,2,Cheesy,1629,3.9,0.6658461538461538
+580,Thai Traditional Bowl 580,North Indian,American,5,Savory,636,3.3,0.24030769230769228
+581,European Heritage Recipe 581,Italian,Italian,2,Spicy,1597,4.8,0.836
+582,Indian House Special 582,Chinese,Japanese,4,Sweet,665,3.3,0.2492307692307692
+583,European House Special 583,Chinese,Japanese,1,Tangy,1261,3.3,0.4326153846153846
+584,Mediterranean Fusion Delight 584,Italian,Japanese,1,Sweet,1724,4.9,0.8950769230769232
+585,Japanese Heritage Recipe 585,North Indian,Chinese,4,Creamy,1597,3.2,0.516
+586,Mediterranean Classic Plate 586,North Indian,Japanese,3,Cheesy,1541,4.4,0.7387692307692308
+587,Chinese Chef Style 587,Korean,European,1,Umami,875,4.9,0.633846153846154
+588,European Heritage Recipe 588,Middle Eastern,European,3,Cheesy,1962,3.7,0.7283076923076923
+589,Mexican Culinary Mix 589,Mexican,Asian,4,Savory,1018,3.5,0.39784615384615385
+590,Mediterranean Heritage Recipe 590,Thai,American,4,Creamy,1918,3.3,0.6347692307692306
+591,Asian Fusion Delight 591,Japanese,Italian,3,Tangy,1846,3.3,0.6126153846153846
+592,Indian Special Dish 592,North Indian,European,5,Umami,1364,4.6,0.7243076923076923
+593,Japanese Signature Meal 593,American,Asian,5,Spicy,1325,3.1,0.4123076923076923
+594,European Traditional Bowl 594,North Indian,Japanese,2,Creamy,522,3.7,0.2852307692307693
+595,Thai Fusion Delight 595,Japanese,Asian,5,Savory,1733,4.4,0.7978461538461539
+596,Asian Traditional Bowl 596,Chinese,European,1,Sweet,717,4.0,0.4052307692307692
+597,Indian House Special 597,American,Mediterranean,5,Tangy,243,3.4,0.13938461538461538
+598,American Signature Meal 598,Italian,Chinese,2,Spicy,1408,4.2,0.657846153846154
+599,Mexican Traditional Bowl 599,Italian,European,2,Cheesy,1066,4.9,0.6926153846153846
+600,European House Special 600,Korean,European,5,Cheesy,1870,3.7,0.7
+601,Thai Traditional Bowl 601,North Indian,Indian,5,Umami,1693,3.4,0.5855384615384615
+602,Italian Culinary Mix 602,Thai,Chinese,2,Cheesy,192,3.2,0.08369230769230773
+603,Japanese Heritage Recipe 603,Thai,American,4,Savory,298,3.4,0.15630769230769231
+604,Mediterranean Culinary Mix 604,Mexican,Mediterranean,4,Cheesy,202,3.4,0.12676923076923075
+605,Asian Traditional Bowl 605,Thai,Korean,3,Spicy,1632,4.6,0.8067692307692307
+606,Korean Gourmet Item 606,North Indian,Mediterranean,5,Umami,1050,4.6,0.6276923076923075
+607,Thai Classic Plate 607,Japanese,American,2,Spicy,1554,4.4,0.7427692307692308
+608,Chinese Heritage Recipe 608,European,Japanese,3,Sweet,342,3.5,0.18984615384615386
+609,Mediterranean Culinary Mix 609,North Indian,Mexican,5,Savory,1808,4.0,0.7409230769230768
+610,Korean Signature Meal 610,Japanese,Mexican,2,Sweet,764,3.7,0.35969230769230776
+611,Thai Culinary Mix 611,Middle Eastern,Mediterranean,1,Savory,1133,3.8,0.4932307692307692
+612,Japanese Traditional Bowl 612,European,Italian,2,Creamy,551,4.7,0.4941538461538462
+613,Mediterranean Chef Style 613,American,Italian,1,Umami,1053,3.2,0.34861538461538466
+614,Mexican Classic Plate 614,Chinese,Thai,3,Tangy,1567,3.6,0.5867692307692307
+615,Thai Classic Plate 615,Thai,Mediterranean,3,Spicy,1687,3.0,0.5036923076923077
+616,Indian Chef Style 616,Middle Eastern,Asian,3,Spicy,119,3.9,0.2012307692307692
+617,Mexican Fusion Delight 617,American,Asian,3,Cheesy,1790,4.0,0.7353846153846153
+618,Japanese Fusion Delight 618,Korean,Mediterranean,1,Creamy,226,3.4,0.13415384615384615
+619,Mediterranean Gourmet Item 619,Italian,Indian,1,Umami,767,3.3,0.2806153846153846
+620,Indian Traditional Bowl 620,American,Korean,5,Spicy,1193,4.5,0.6516923076923078
+621,American Signature Meal 621,Middle Eastern,American,5,Spicy,415,3.6,0.23230769230769233
+622,Mediterranean House Special 622,Mexican,European,4,Sweet,1926,3.2,0.6172307692307692
+623,Korean Culinary Mix 623,Mexican,Chinese,3,Sweet,1896,3.8,0.728
+624,Asian Gourmet Item 624,North Indian,Indian,2,Savory,114,3.8,0.17969230769230768
+625,Mexican Special Dish 625,Chinese,Mexican,2,Sweet,923,3.1,0.2886153846153846
+626,Mexican Culinary Mix 626,Italian,European,1,Savory,373,3.3,0.15938461538461535
+627,Italian Gourmet Item 627,Mexican,Mexican,1,Cheesy,187,4.3,0.3021538461538461
+628,Mexican Culinary Mix 628,Korean,Indian,1,Savory,678,3.7,0.3332307692307692
+629,Thai Classic Plate 629,Italian,Indian,1,Spicy,203,3.2,0.08707692307692311
+630,Asian Fusion Delight 630,Italian,Asian,2,Creamy,1844,3.1,0.5720000000000001
+631,American House Special 631,American,European,5,Sweet,349,3.1,0.112
+632,Japanese Signature Meal 632,European,Korean,4,Cheesy,1404,4.8,0.7766153846153845
+633,Korean Classic Plate 633,Mexican,Mediterranean,3,Savory,733,4.9,0.5901538461538463
+634,Indian House Special 634,Italian,American,5,Cheesy,123,4.3,0.28246153846153843
+635,Korean Fusion Delight 635,Korean,American,3,Sweet,1768,4.4,0.8086153846153847
+636,Italian Classic Plate 636,Italian,Japanese,3,Tangy,1360,4.5,0.7030769230769232
+637,Mediterranean Gourmet Item 637,Middle Eastern,European,2,Cheesy,1922,3.2,0.616
+638,Japanese Signature Meal 638,Italian,American,3,Tangy,1557,3.5,0.5636923076923076
+639,Italian Classic Plate 639,Middle Eastern,Thai,3,Tangy,582,4.6,0.48369230769230764
+640,Thai Chef Style 640,Japanese,European,5,Spicy,718,3.9,0.3855384615384615
+641,Mexican Chef Style 641,Japanese,European,3,Cheesy,998,4.8,0.6516923076923077
+642,American Signature Meal 642,Italian,Mexican,1,Umami,495,3.3,0.1969230769230769
+643,Mexican Special Dish 643,South Indian,Italian,2,Tangy,1301,3.5,0.4849230769230769
+644,American Culinary Mix 644,Japanese,Japanese,5,Spicy,483,4.2,0.37323076923076925
+645,Korean Classic Plate 645,Italian,Korean,2,Sweet,1620,4.6,0.803076923076923
+646,Japanese Traditional Bowl 646,Chinese,Korean,2,Umami,458,4.4,0.4055384615384616
+647,American Heritage Recipe 647,South Indian,Asian,5,Sweet,1839,4.4,0.8304615384615386
+648,Asian Signature Meal 648,Korean,Italian,5,Savory,861,4.0,0.44953846153846155
+649,Mediterranean Classic Plate 649,European,Japanese,3,Sweet,1187,3.2,0.38984615384615384
+650,European Heritage Recipe 650,European,European,5,Creamy,1940,3.4,0.6615384615384615
+651,Italian Signature Meal 651,Italian,Korean,1,Spicy,813,3.2,0.27476923076923077
+652,Japanese Culinary Mix 652,North Indian,Asian,3,Cheesy,882,3.3,0.31599999999999995
+653,American Chef Style 653,North Indian,Chinese,4,Savory,1998,4.3,0.8593846153846152
+654,American Traditional Bowl 654,Mexican,European,3,Spicy,1023,3.8,0.45938461538461534
+655,Mediterranean Heritage Recipe 655,South Indian,Korean,2,Tangy,1406,4.1,0.6372307692307692
+656,Asian Fusion Delight 656,European,Thai,1,Tangy,1955,3.9,0.7661538461538462
+657,Mediterranean Special Dish 657,North Indian,Indian,3,Tangy,690,3.9,0.3769230769230769
+658,Chinese Culinary Mix 658,Chinese,American,2,Cheesy,1741,4.3,0.7803076923076924
+659,Mexican Culinary Mix 659,Mexican,Mexican,5,Savory,1401,4.8,0.7756923076923077
+660,Asian Fusion Delight 660,Korean,Mexican,1,Umami,1514,3.0,0.4504615384615384
+661,Japanese Special Dish 661,Thai,Thai,5,Umami,1944,4.7,0.9227692307692308
+662,Asian Special Dish 662,Japanese,Mexican,4,Savory,882,3.3,0.31599999999999995
+663,American Heritage Recipe 663,South Indian,Japanese,5,Cheesy,618,3.7,0.3147692307692308
+664,Japanese Classic Plate 664,Thai,Asian,5,Umami,1594,3.3,0.535076923076923
+665,Mediterranean Culinary Mix 665,North Indian,Italian,3,Umami,1867,4.9,0.9390769230769231
+666,Korean House Special 666,North Indian,Thai,2,Tangy,1249,3.9,0.5489230769230768
+667,Italian Classic Plate 667,Middle Eastern,American,1,Tangy,861,4.8,0.6095384615384615
+668,Indian Special Dish 668,Mexican,European,1,Cheesy,1365,3.5,0.5046153846153847
+669,Chinese Signature Meal 669,Italian,Thai,3,Cheesy,1527,4.4,0.7344615384615385
+670,Indian Chef Style 670,South Indian,Japanese,4,Spicy,363,3.1,0.11630769230769232
+671,Italian Signature Meal 671,Italian,Italian,4,Creamy,1869,3.8,0.7196923076923076
+672,Chinese Heritage Recipe 672,American,Chinese,2,Creamy,1778,4.5,0.8316923076923077
+673,Mediterranean Heritage Recipe 673,Thai,Thai,1,Sweet,137,3.9,0.20676923076923076
+674,Mexican Classic Plate 674,Mexican,Japanese,5,Cheesy,1029,3.7,0.4412307692307692
+675,Indian Culinary Mix 675,Chinese,Mexican,3,Spicy,589,3.7,0.3058461538461539
+676,Thai Chef Style 676,Italian,Italian,3,Sweet,282,3.2,0.11138461538461542
+677,Chinese Traditional Bowl 677,Japanese,Mexican,5,Savory,1781,3.7,0.6726153846153846
+678,Mediterranean Fusion Delight 678,European,American,5,Creamy,469,3.2,0.16892307692307695
+679,Thai Fusion Delight 679,South Indian,Japanese,1,Cheesy,1434,4.8,0.7858461538461539
+680,Thai House Special 680,North Indian,Mediterranean,2,Spicy,1126,3.4,0.411076923076923
+681,Mediterranean Chef Style 681,Middle Eastern,Chinese,1,Tangy,849,3.7,0.3858461538461539
+682,Indian Culinary Mix 682,Italian,Chinese,5,Tangy,1517,3.4,0.5313846153846153
+683,Japanese Heritage Recipe 683,South Indian,Mediterranean,2,Spicy,1431,3.1,0.4449230769230769
+684,American Chef Style 684,Chinese,Korean,5,Sweet,1920,4.0,0.7753846153846153
+685,Mexican Classic Plate 685,European,Chinese,4,Sweet,1888,3.9,0.7455384615384615
+686,Chinese Chef Style 686,Thai,Thai,1,Sweet,840,3.5,0.34307692307692306
+687,Mediterranean Fusion Delight 687,South Indian,Indian,5,Umami,1741,4.2,0.7603076923076924
+688,Italian Gourmet Item 688,Mexican,Korean,5,Tangy,1172,4.6,0.6652307692307692
+689,Korean Culinary Mix 689,North Indian,Chinese,3,Tangy,248,3.7,0.20092307692307695
+690,Thai Fusion Delight 690,Italian,Japanese,1,Umami,394,3.0,0.10584615384615384
+691,Mexican Signature Meal 691,Italian,European,1,Creamy,341,4.3,0.34953846153846146
+692,Mediterranean House Special 692,North Indian,Indian,4,Cheesy,56,3.2,0.04184615384615388
+693,Italian Chef Style 693,Thai,Mexican,2,Tangy,1172,3.4,0.4252307692307692
+694,Mediterranean House Special 694,Japanese,Indian,4,Tangy,1874,4.2,0.8012307692307692
+695,Asian Fusion Delight 695,Chinese,European,2,Tangy,1877,3.6,0.6821538461538461
+696,Italian House Special 696,South Indian,European,2,Cheesy,1515,3.9,0.6307692307692307
+697,Chinese Fusion Delight 697,Mexican,Chinese,2,Spicy,1189,3.6,0.4704615384615385
+698,Japanese Chef Style 698,American,Italian,5,Savory,1469,3.8,0.5966153846153845
+699,European Fusion Delight 699,European,Italian,4,Savory,1451,3.5,0.5310769230769231
+700,Indian Classic Plate 700,Italian,Italian,4,Tangy,1346,4.9,0.7787692307692309
+701,Korean Signature Meal 701,Korean,Japanese,5,Umami,1165,3.9,0.523076923076923
+702,Thai Classic Plate 702,Middle Eastern,Indian,5,Cheesy,315,3.9,0.2615384615384615
+703,Korean Traditional Bowl 703,American,Mexican,1,Umami,150,3.9,0.21076923076923076
+704,Mediterranean Classic Plate 704,Korean,Thai,3,Savory,134,3.9,0.20584615384615385
+705,Indian Fusion Delight 705,South Indian,Chinese,1,Spicy,1496,3.3,0.5049230769230769
+706,Asian Signature Meal 706,North Indian,Asian,1,Umami,495,3.3,0.1969230769230769
+707,Mexican Signature Meal 707,Mexican,Thai,3,Cheesy,340,3.3,0.1492307692307692
+708,Mediterranean Special Dish 708,South Indian,Chinese,5,Spicy,1685,4.2,0.7430769230769232
+709,Mexican Signature Meal 709,North Indian,Chinese,1,Spicy,1377,4.4,0.6883076923076923
+710,Thai Gourmet Item 710,American,Korean,5,Savory,1600,4.8,0.8369230769230769
+711,European House Special 711,Chinese,Japanese,1,Savory,976,4.0,0.4849230769230769
+712,Chinese Traditional Bowl 712,Italian,Indian,2,Umami,173,3.4,0.11784615384615382
+713,Chinese Traditional Bowl 713,Mexican,Japanese,1,Spicy,222,4.5,0.35292307692307695
+714,Korean Gourmet Item 714,North Indian,Mexican,1,Cheesy,1441,4.7,0.768
+715,Korean Classic Plate 715,Mexican,European,4,Sweet,1322,4.1,0.6113846153846153
+716,Chinese Special Dish 716,Middle Eastern,Mediterranean,2,Umami,1295,4.8,0.743076923076923
+717,Chinese Classic Plate 717,Chinese,Mediterranean,2,Spicy,250,4.1,0.28153846153846146
+718,Indian Gourmet Item 718,Mexican,Mexican,5,Creamy,1368,3.0,0.4055384615384615
+719,Asian Culinary Mix 719,North Indian,American,2,Umami,218,3.7,0.19169230769230772
+720,Mediterranean Heritage Recipe 720,American,Italian,5,Umami,663,4.4,0.46861538461538466
+721,Japanese Signature Meal 721,Japanese,Chinese,5,Spicy,1068,3.7,0.4532307692307692
+722,Italian Signature Meal 722,Japanese,Mexican,1,Creamy,233,4.1,0.27630769230769225
+723,Korean Culinary Mix 723,Japanese,Mediterranean,1,Sweet,639,4.3,0.4412307692307692
+724,European Heritage Recipe 724,Japanese,Mexican,3,Cheesy,494,4.6,0.45661538461538453
+725,European Traditional Bowl 725,Korean,Italian,1,Spicy,940,3.7,0.41384615384615386
+726,Mexican Traditional Bowl 726,Middle Eastern,Thai,2,Spicy,1155,3.2,0.38
+727,Indian Classic Plate 727,South Indian,American,3,Cheesy,1004,4.7,0.6335384615384616
+728,Mediterranean Heritage Recipe 728,European,Chinese,1,Sweet,193,3.2,0.08400000000000003
+729,Indian Classic Plate 729,Italian,Indian,1,Sweet,704,4.8,0.5612307692307692
+730,Italian Signature Meal 730,Thai,Korean,3,Umami,486,4.3,0.3941538461538461
+731,Japanese Chef Style 731,American,Italian,3,Cheesy,1863,4.2,0.7978461538461539
+732,Korean Traditional Bowl 732,Chinese,Indian,5,Sweet,428,3.8,0.27630769230769225
+733,Asian Special Dish 733,American,Asian,3,Savory,140,3.3,0.08769230769230767
+734,Asian Classic Plate 734,North Indian,Indian,5,Cheesy,741,4.8,0.5726153846153845
+735,Asian Culinary Mix 735,South Indian,American,5,Savory,1432,4.8,0.7852307692307692
+736,European Chef Style 736,Mexican,Thai,1,Sweet,1488,3.7,0.5824615384615385
+737,Mediterranean House Special 737,European,Asian,4,Spicy,1693,4.0,0.7055384615384614
+738,Korean Culinary Mix 738,Italian,Asian,1,Cheesy,530,4.9,0.5276923076923078
+739,Asian Traditional Bowl 739,Mexican,Mediterranean,5,Creamy,1571,4.9,0.8480000000000001
+740,European Signature Meal 740,Japanese,Chinese,5,Tangy,1486,4.8,0.8018461538461539
+741,Mediterranean Culinary Mix 741,Thai,European,2,Creamy,1235,3.2,0.4046153846153846
+742,Mexican Chef Style 742,Mexican,Asian,4,Cheesy,1893,3.8,0.727076923076923
+743,European Chef Style 743,Korean,Asian,3,Spicy,1793,4.6,0.8563076923076922
+744,Indian Traditional Bowl 744,Italian,Asian,1,Creamy,1399,3.2,0.4550769230769231
+745,Korean House Special 745,European,Asian,3,Umami,1974,4.3,0.8519999999999999
+746,Asian Traditional Bowl 746,American,European,5,Umami,1467,3.5,0.536
+747,Mexican Fusion Delight 747,North Indian,European,5,Sweet,1114,3.4,0.40738461538461535
+748,American Traditional Bowl 748,Korean,Korean,3,Savory,404,3.1,0.12892307692307692
+749,Thai House Special 749,European,Indian,3,Cheesy,1197,3.4,0.43292307692307685
+750,Korean House Special 750,North Indian,Italian,4,Cheesy,1503,4.5,0.7470769230769231
+751,Asian Gourmet Item 751,North Indian,Chinese,5,Umami,1969,4.7,0.9304615384615386
+752,European Signature Meal 752,Mexican,American,2,Spicy,1347,4.8,0.759076923076923
+753,Indian Heritage Recipe 753,European,Mediterranean,3,Savory,249,3.6,0.18123076923076925
+754,Thai Culinary Mix 754,Mexican,Italian,5,Sweet,1698,4.7,0.8470769230769231
+755,Chinese Culinary Mix 755,Italian,Korean,3,Creamy,1881,3.2,0.6033846153846154
+756,Italian Heritage Recipe 756,Chinese,Mexican,5,Sweet,1078,3.3,0.37630769230769223
+757,Chinese Special Dish 757,Italian,Asian,2,Sweet,92,4.6,0.3329230769230769
+758,Thai Gourmet Item 758,South Indian,Asian,3,Umami,317,4.4,0.3621538461538462
+759,Thai Special Dish 759,Japanese,American,4,Tangy,167,4.5,0.336
+760,Asian Signature Meal 760,North Indian,Korean,4,Umami,168,3.4,0.11630769230769229
+761,Indian Heritage Recipe 761,South Indian,Chinese,1,Creamy,1638,3.4,0.5686153846153845
+762,Japanese Culinary Mix 762,Korean,Asian,4,Tangy,1280,3.5,0.4784615384615385
+763,European Culinary Mix 763,Japanese,Korean,1,Creamy,857,4.2,0.48830769230769233
+764,Mexican Gourmet Item 764,Chinese,Mexican,2,Sweet,772,4.9,0.6021538461538463
+765,American Gourmet Item 765,Korean,Japanese,4,Savory,1675,4.5,0.8
+766,Asian Chef Style 766,North Indian,Mexican,3,Umami,1485,4.2,0.6815384615384616
+767,European Gourmet Item 767,North Indian,Italian,5,Cheesy,1892,3.1,0.5867692307692308
+768,Japanese Fusion Delight 768,Italian,European,2,Spicy,1985,4.0,0.7953846153846154
+769,Italian Fusion Delight 769,Middle Eastern,Asian,2,Creamy,1048,4.4,0.5870769230769232
+770,Thai Culinary Mix 770,South Indian,Mediterranean,1,Spicy,959,4.2,0.5196923076923077
+771,Japanese Traditional Bowl 771,Korean,Asian,4,Spicy,379,3.8,0.2612307692307692
+772,Mexican Signature Meal 772,North Indian,Thai,1,Umami,388,3.3,0.16399999999999998
+773,Indian Heritage Recipe 773,Middle Eastern,Japanese,1,Creamy,1477,3.7,0.5790769230769232
+774,Italian Chef Style 774,Chinese,American,5,Spicy,1039,4.7,0.6443076923076924
+775,Mediterranean House Special 775,Mexican,Chinese,2,Tangy,115,3.7,0.16000000000000003
+776,American Classic Plate 776,European,Italian,1,Cheesy,989,3.0,0.2889230769230769
+777,Korean Culinary Mix 777,Japanese,Mediterranean,3,Cheesy,198,3.6,0.16553846153846158
+778,Mexican Traditional Bowl 778,South Indian,Japanese,3,Umami,1741,4.8,0.8803076923076923
+779,Thai Gourmet Item 779,Korean,Mexican,4,Sweet,1329,4.7,0.7335384615384616
+780,American Special Dish 780,American,Mexican,1,Sweet,1564,3.1,0.4858461538461538
+781,Chinese Classic Plate 781,North Indian,Mexican,3,Tangy,426,4.9,0.4956923076923078
+782,Italian Special Dish 782,Mexican,Chinese,1,Cheesy,1359,3.5,0.5027692307692307
+783,Korean Gourmet Item 783,Mexican,Chinese,4,Cheesy,1653,3.3,0.5532307692307692
+784,Japanese Heritage Recipe 784,Thai,American,3,Spicy,665,4.9,0.5692307692307693
+785,Indian Gourmet Item 785,American,Chinese,3,Tangy,786,4.5,0.5264615384615385
+786,Italian Heritage Recipe 786,South Indian,Asian,1,Creamy,719,3.6,0.32584615384615384
+787,Chinese Chef Style 787,Korean,Chinese,4,Creamy,727,3.4,0.28830769230769226
+788,Mexican Traditional Bowl 788,Korean,European,4,Spicy,56,3.2,0.04184615384615388
+789,Thai Heritage Recipe 789,Korean,Japanese,1,Creamy,698,4.1,0.41938461538461536
+790,Chinese Classic Plate 790,Japanese,European,3,Umami,1283,4.9,0.7593846153846155
+791,Japanese Fusion Delight 791,Chinese,Korean,5,Tangy,153,4.5,0.33169230769230773
+792,Italian Signature Meal 792,European,American,4,Sweet,336,4.7,0.42800000000000005
+793,Mexican Signature Meal 793,Mexican,Japanese,5,Spicy,1359,3.6,0.5227692307692308
+794,American Fusion Delight 794,Chinese,Korean,5,Creamy,795,3.3,0.2892307692307692
+795,Indian Heritage Recipe 795,Chinese,Italian,3,Tangy,361,4.4,0.37569230769230777
+796,Thai Chef Style 796,Korean,Japanese,2,Umami,1500,4.1,0.6661538461538461
+797,Italian House Special 797,Italian,Indian,5,Cheesy,208,3.5,0.14861538461538462
+798,American Special Dish 798,South Indian,Mediterranean,4,Cheesy,1781,3.4,0.6126153846153846
+799,Indian Signature Meal 799,Korean,Korean,1,Sweet,1778,4.4,0.8116923076923077
+800,Italian House Special 800,Chinese,Italian,2,Creamy,1087,4.4,0.5990769230769232
+801,Chinese Signature Meal 801,Korean,Chinese,1,Spicy,1026,4.6,0.6203076923076922
+802,American Culinary Mix 802,European,American,1,Sweet,1788,3.9,0.7147692307692308
+803,Mexican Gourmet Item 803,Middle Eastern,Thai,4,Cheesy,1202,5.0,0.7544615384615385
+804,Asian Classic Plate 804,North Indian,Mediterranean,2,Tangy,1397,4.5,0.7144615384615385
+805,Thai Signature Meal 805,South Indian,Indian,2,Sweet,445,4.2,0.3615384615384616
+806,Asian House Special 806,Mexican,Mexican,4,Cheesy,1574,3.9,0.6489230769230769
+807,Japanese Culinary Mix 807,North Indian,Thai,4,Sweet,1034,4.5,0.6027692307692307
+808,Thai Special Dish 808,Korean,Korean,2,Cheesy,667,4.6,0.5098461538461538
+809,Chinese Culinary Mix 809,North Indian,Thai,4,Tangy,1676,4.7,0.8403076923076923
+810,American Culinary Mix 810,Korean,Japanese,5,Cheesy,264,3.5,0.16584615384615387
+811,American Chef Style 811,South Indian,Japanese,3,Sweet,680,3.6,0.3138461538461539
+812,Italian Culinary Mix 812,Middle Eastern,Korean,2,Savory,171,4.7,0.3772307692307693
+813,Chinese Heritage Recipe 813,American,Indian,1,Savory,522,4.6,0.46523076923076917
+814,Thai Classic Plate 814,South Indian,Chinese,4,Savory,597,3.5,0.2683076923076923
+815,Mexican Heritage Recipe 815,Mexican,Mediterranean,4,Savory,1656,3.4,0.5741538461538461
+816,Thai Gourmet Item 816,Chinese,Mexican,2,Tangy,467,4.8,0.48830769230769233
+817,Mexican Special Dish 817,Japanese,European,4,Umami,443,4.8,0.4809230769230769
+818,Thai Signature Meal 818,Korean,Chinese,1,Cheesy,382,4.8,0.46215384615384614
+819,Korean Signature Meal 819,Italian,Mediterranean,4,Umami,514,3.5,0.24276923076923076
+820,European Heritage Recipe 820,Chinese,Italian,5,Spicy,176,4.9,0.4187692307692309
+821,Korean House Special 821,North Indian,Mexican,1,Creamy,1202,4.8,0.7144615384615385
+822,Indian Fusion Delight 822,Mexican,Thai,3,Cheesy,373,4.7,0.4393846153846155
+823,Mexican Fusion Delight 823,Korean,Indian,2,Cheesy,1397,4.0,0.6144615384615385
+824,Asian Chef Style 824,American,European,4,Savory,151,4.3,0.291076923076923
+825,European Fusion Delight 825,Middle Eastern,Mexican,4,Spicy,445,3.1,0.14153846153846156
+826,Italian Traditional Bowl 826,Chinese,Italian,5,Spicy,1263,3.3,0.4332307692307692
+827,Mexican Chef Style 827,European,Chinese,5,Savory,831,4.9,0.6203076923076924
+828,Asian Gourmet Item 828,South Indian,Italian,3,Cheesy,1750,3.7,0.6630769230769231
+829,American Gourmet Item 829,Chinese,Thai,4,Creamy,894,4.3,0.5196923076923077
+830,Japanese Traditional Bowl 830,Japanese,American,5,Cheesy,118,3.3,0.08092307692307689
+831,Japanese Chef Style 831,American,Chinese,3,Umami,746,3.9,0.39415384615384613
+832,Italian Heritage Recipe 832,European,Thai,5,Spicy,1942,3.3,0.6421538461538461
+833,European House Special 833,Italian,Italian,3,Tangy,1756,3.0,0.5249230769230769
+834,Thai Chef Style 834,Chinese,Chinese,3,Creamy,998,4.7,0.6316923076923078
+835,Mediterranean Fusion Delight 835,Chinese,Indian,4,Cheesy,912,3.6,0.38523076923076927
+836,American Culinary Mix 836,Chinese,Mexican,1,Tangy,881,4.4,0.5356923076923077
+837,Asian House Special 837,Middle Eastern,Italian,4,Spicy,1701,4.1,0.728
+838,European House Special 838,South Indian,European,3,Tangy,1864,4.5,0.8581538461538462
+839,Chinese Heritage Recipe 839,Italian,Indian,4,Cheesy,84,4.1,0.2304615384615384
+840,Chinese Signature Meal 840,Mexican,Chinese,2,Spicy,1060,4.7,0.6507692307692309
+841,European Traditional Bowl 841,Middle Eastern,Thai,5,Tangy,1305,4.5,0.6861538461538462
+842,Thai Chef Style 842,Thai,Chinese,2,Sweet,1546,4.7,0.8003076923076924
+843,Korean Culinary Mix 843,Thai,Mediterranean,4,Sweet,70,4.0,0.20615384615384616
+844,Korean Classic Plate 844,North Indian,Mediterranean,5,Cheesy,1396,4.1,0.6341538461538461
+845,Thai Classic Plate 845,Japanese,Korean,4,Sweet,184,3.3,0.10123076923076921
+846,American Culinary Mix 846,Korean,Asian,5,Creamy,1174,3.6,0.4658461538461539
+847,Thai Special Dish 847,Thai,Indian,4,Cheesy,1631,4.0,0.6864615384615385
+848,European Heritage Recipe 848,North Indian,Indian,3,Umami,1596,4.3,0.7356923076923076
+849,Japanese Fusion Delight 849,European,Mediterranean,2,Cheesy,818,3.8,0.39630769230769225
+850,Mediterranean Gourmet Item 850,Japanese,Indian,4,Tangy,50,3.5,0.1
+851,Japanese Special Dish 851,Chinese,Thai,1,Creamy,1097,4.7,0.6621538461538463
+852,Indian Classic Plate 852,North Indian,Asian,2,Creamy,185,4.6,0.3615384615384615
+853,Japanese Culinary Mix 853,American,Mexican,5,Savory,516,4.8,0.5033846153846153
+854,Korean Culinary Mix 854,Japanese,Mediterranean,4,Tangy,422,4.2,0.3544615384615385
+855,American House Special 855,Italian,Mediterranean,5,Savory,599,5.0,0.5689230769230769
+856,Japanese Culinary Mix 856,North Indian,Mexican,2,Cheesy,957,3.7,0.4190769230769231
+857,Chinese Traditional Bowl 857,South Indian,American,4,Cheesy,1917,3.0,0.5744615384615385
+858,American Traditional Bowl 858,North Indian,Chinese,1,Savory,172,4.5,0.33753846153846156
+859,Indian Traditional Bowl 859,Italian,American,5,Creamy,930,4.4,0.5507692307692309
+860,Mediterranean Signature Meal 860,European,Thai,4,Umami,339,4.5,0.388923076923077
+861,Asian Special Dish 861,South Indian,American,5,Spicy,1307,3.3,0.4467692307692307
+862,Chinese Heritage Recipe 862,Japanese,European,1,Tangy,1738,4.0,0.7193846153846153
+863,Asian Fusion Delight 863,Chinese,American,3,Savory,1411,4.2,0.6587692307692308
+864,Indian Chef Style 864,Korean,Asian,1,Savory,685,4.3,0.45538461538461533
+865,Asian House Special 865,American,Korean,2,Creamy,1516,4.3,0.7110769230769229
+866,European Classic Plate 866,European,Chinese,4,Tangy,291,4.2,0.31415384615384623
+867,Thai Signature Meal 867,European,American,1,Creamy,946,3.5,0.37569230769230766
+868,Asian Fusion Delight 868,South Indian,Mediterranean,2,Cheesy,1031,3.6,0.42184615384615387
+869,Korean Classic Plate 869,American,Asian,5,Savory,999,4.0,0.492
+870,Indian Heritage Recipe 870,Thai,Thai,4,Savory,1015,4.7,0.6369230769230769
+871,Korean House Special 871,European,Japanese,5,Cheesy,1929,4.0,0.7781538461538462
+872,American Traditional Bowl 872,South Indian,Japanese,3,Spicy,436,4.7,0.4587692307692308
+873,Japanese Fusion Delight 873,South Indian,Mexican,3,Spicy,941,3.6,0.3941538461538462
+874,Korean Fusion Delight 874,Thai,Chinese,5,Umami,1000,4.3,0.5523076923076922
+875,Asian Heritage Recipe 875,Middle Eastern,European,5,Sweet,681,4.7,0.5341538461538462
+876,Italian Special Dish 876,South Indian,European,5,Spicy,1254,4.7,0.7104615384615385
+877,Japanese Signature Meal 877,Thai,Thai,4,Spicy,1429,3.8,0.5843076923076923
+878,Chinese Traditional Bowl 878,Korean,Thai,4,Umami,188,4.1,0.2624615384615384
+879,European Gourmet Item 879,Thai,European,1,Sweet,588,4.8,0.5255384615384615
+880,Chinese Heritage Recipe 880,South Indian,Italian,4,Tangy,802,4.1,0.45138461538461533
+881,Asian Chef Style 881,North Indian,European,1,Creamy,1505,3.8,0.6076923076923076
+882,Mediterranean Chef Style 882,Japanese,Mexican,1,Cheesy,777,4.2,0.46369230769230774
+883,Korean House Special 883,Italian,Mediterranean,5,Umami,577,3.6,0.28215384615384614
+884,Japanese Signature Meal 884,Mexican,Mediterranean,5,Savory,1627,4.4,0.7652307692307693
+885,Chinese Special Dish 885,Italian,Mediterranean,5,Creamy,1333,3.3,0.4547692307692307
+886,Thai Heritage Recipe 886,Thai,Mexican,1,Savory,396,3.9,0.28646153846153843
+887,Italian Chef Style 887,Italian,Italian,4,Spicy,1389,3.4,0.492
+888,Chinese Traditional Bowl 888,Middle Eastern,Thai,5,Cheesy,561,5.0,0.5572307692307692
+889,Korean Special Dish 889,Chinese,American,4,Cheesy,500,3.9,0.31846153846153846
+890,Mediterranean Classic Plate 890,Thai,Korean,4,Savory,493,4.0,0.3363076923076923
+891,European Heritage Recipe 891,Japanese,American,1,Cheesy,594,4.9,0.5473846153846155
+892,Indian House Special 892,Japanese,Mediterranean,2,Umami,1260,4.0,0.5723076923076923
+893,Mediterranean Heritage Recipe 893,Korean,Mexican,3,Spicy,1101,4.6,0.6433846153846153
+894,Japanese Heritage Recipe 894,Chinese,Mexican,4,Savory,1230,4.8,0.723076923076923
+895,Mexican Gourmet Item 895,Middle Eastern,Korean,4,Creamy,52,4.0,0.20061538461538464
+896,European Signature Meal 896,European,Japanese,4,Spicy,1117,4.7,0.6683076923076924
+897,American Chef Style 897,Chinese,Korean,5,Umami,1950,4.5,0.8846153846153846
+898,Mediterranean Classic Plate 898,Italian,Asian,2,Savory,1478,4.6,0.7593846153846153
+899,Chinese Signature Meal 899,Thai,Mexican,5,Creamy,713,3.7,0.3440000000000001
+900,Italian Signature Meal 900,Middle Eastern,Asian,1,Creamy,1716,3.3,0.5726153846153845
+901,Mediterranean Gourmet Item 901,North Indian,Asian,5,Spicy,1326,3.5,0.4926153846153847
+902,Thai Fusion Delight 902,American,Thai,3,Umami,1109,4.6,0.6458461538461537
+903,American Fusion Delight 903,Japanese,Mexican,4,Creamy,456,3.9,0.3049230769230769
+904,Korean Classic Plate 904,Japanese,Indian,1,Umami,627,4.1,0.3975384615384615
+905,Thai Gourmet Item 905,Japanese,Italian,5,Tangy,1005,3.6,0.41384615384615386
+906,Korean Heritage Recipe 906,American,Mexican,3,Cheesy,728,4.1,0.42861538461538456
+907,Thai Fusion Delight 907,Italian,Chinese,3,Savory,1419,4.3,0.6812307692307692
+908,Japanese Traditional Bowl 908,Middle Eastern,American,1,Sweet,1195,4.4,0.6323076923076925
+909,Mediterranean Special Dish 909,Italian,Chinese,3,Umami,446,4.0,0.32184615384615384
+910,Asian Special Dish 910,Japanese,Korean,2,Sweet,1870,4.7,0.9
+911,American Traditional Bowl 911,Japanese,European,5,Umami,1481,4.0,0.6403076923076922
+912,European Chef Style 912,Korean,Mediterranean,4,Spicy,1945,3.5,0.683076923076923
+913,Mexican Chef Style 913,European,Asian,5,Creamy,141,4.3,0.288
+914,Thai Signature Meal 914,American,Mediterranean,1,Savory,1187,4.3,0.6098461538461537
+915,Korean Traditional Bowl 915,North Indian,Korean,1,Savory,1989,4.6,0.9166153846153845
+916,Japanese Chef Style 916,Japanese,European,3,Tangy,726,4.6,0.5279999999999999
+917,Japanese Gourmet Item 917,South Indian,Italian,1,Sweet,1374,4.8,0.7673846153846153
+918,American Classic Plate 918,North Indian,Thai,4,Umami,1672,3.5,0.5990769230769231
+919,Thai Culinary Mix 919,Chinese,Korean,3,Umami,574,4.9,0.5412307692307694
+920,European Fusion Delight 920,American,Thai,1,Cheesy,63,3.8,0.16399999999999998
+921,Japanese Special Dish 921,American,Japanese,4,Cheesy,394,5.0,0.5058461538461538
+922,Thai Fusion Delight 922,Italian,Italian,4,Cheesy,1374,4.3,0.6673846153846154
+923,Chinese Traditional Bowl 923,Thai,Chinese,3,Savory,1816,4.5,0.8433846153846154
+924,Korean House Special 924,European,American,5,Creamy,1204,3.7,0.4950769230769231
+925,Italian Culinary Mix 925,Thai,Japanese,4,Cheesy,1992,4.9,0.9775384615384616
+926,Italian Chef Style 926,Korean,Mexican,5,Cheesy,189,4.3,0.30276923076923073
+927,European Heritage Recipe 927,Mexican,Mediterranean,1,Tangy,1961,4.1,0.8079999999999999
+928,Mediterranean Gourmet Item 928,Thai,American,1,Savory,347,4.7,0.4313846153846155
+929,Asian Traditional Bowl 929,Italian,European,4,Tangy,312,3.3,0.1406153846153846
+930,Indian Heritage Recipe 930,Thai,Thai,2,Creamy,120,3.5,0.12153846153846154
+931,Indian Special Dish 931,Italian,Chinese,4,Umami,1418,4.8,0.7809230769230768
+932,Italian Special Dish 932,Mexican,American,2,Cheesy,649,3.6,0.30430769230769233
+933,American Gourmet Item 933,Middle Eastern,Chinese,3,Umami,1764,3.7,0.6673846153846154
+934,Mexican Special Dish 934,South Indian,Chinese,3,Creamy,1667,4.0,0.6975384615384614
+935,Italian Heritage Recipe 935,Italian,Mediterranean,3,Savory,696,3.8,0.35876923076923073
+936,Indian Traditional Bowl 936,American,Mexican,3,Umami,1705,4.6,0.8292307692307691
+937,Indian House Special 937,South Indian,Mediterranean,5,Creamy,932,3.3,0.3313846153846154
+938,American Signature Meal 938,Chinese,Thai,2,Creamy,596,3.2,0.20800000000000005
+939,Indian Special Dish 939,Italian,American,3,Umami,95,4.0,0.21384615384615385
+940,Asian Culinary Mix 940,South Indian,Korean,4,Sweet,1272,4.9,0.7560000000000001
+941,Indian House Special 941,Japanese,Italian,4,Savory,1007,4.3,0.5544615384615383
+942,American House Special 942,American,Asian,2,Tangy,1679,3.2,0.5412307692307693
+943,European Classic Plate 943,Middle Eastern,European,1,Creamy,1312,3.6,0.5083076923076923
+944,European Culinary Mix 944,Korean,Mexican,3,Umami,998,4.5,0.5916923076923077
+945,Chinese Special Dish 945,Japanese,Mexican,4,Creamy,789,4.9,0.6073846153846155
+946,Mexican Traditional Bowl 946,Thai,Thai,3,Umami,1716,4.3,0.7726153846153845
+947,American Gourmet Item 947,South Indian,American,1,Savory,1414,3.3,0.47969230769230764
+948,Thai Culinary Mix 948,Italian,Thai,5,Savory,1141,4.1,0.5556923076923076
+949,Mediterranean House Special 949,Middle Eastern,Italian,3,Sweet,252,4.7,0.40215384615384625
+950,Mediterranean House Special 950,Mexican,Italian,3,Umami,1199,3.7,0.4935384615384616
+951,Japanese Heritage Recipe 951,Chinese,Mexican,3,Savory,986,4.9,0.6680000000000001
+952,Italian Heritage Recipe 952,Korean,American,2,Creamy,864,3.5,0.3504615384615385
+953,Mexican House Special 953,Mexican,Mediterranean,2,Cheesy,1590,4.2,0.7138461538461538
+954,Mexican Chef Style 954,Japanese,Mexican,1,Spicy,1055,3.1,0.3292307692307692
+955,Chinese Chef Style 955,European,Mexican,3,Spicy,1857,4.7,0.896
+956,Korean Gourmet Item 956,North Indian,Italian,4,Cheesy,1196,4.6,0.6726153846153846
+957,Chinese Fusion Delight 957,Japanese,Mediterranean,3,Savory,1932,3.5,0.679076923076923
+958,European Traditional Bowl 958,American,Indian,5,Umami,134,3.6,0.14584615384615388
+959,Thai Classic Plate 959,Chinese,Mexican,2,Tangy,525,4.9,0.5261538461538462
+960,Japanese Chef Style 960,Thai,European,5,Cheesy,612,4.9,0.5529230769230771
+961,Japanese House Special 961,Japanese,Mediterranean,4,Tangy,1144,3.5,0.4366153846153846
+962,American Special Dish 962,Mexican,Thai,4,Tangy,1244,3.9,0.5473846153846154
+963,Japanese House Special 963,Korean,American,5,Tangy,1541,3.3,0.5187692307692306
+964,Indian Traditional Bowl 964,North Indian,Korean,4,Umami,1309,4.3,0.6473846153846153
+965,Mediterranean Culinary Mix 965,Thai,Thai,4,Sweet,96,4.4,0.2941538461538462
+966,Italian Heritage Recipe 966,South Indian,Mediterranean,1,Creamy,622,3.6,0.29600000000000004
+967,Japanese Gourmet Item 967,European,European,2,Cheesy,1909,3.8,0.732
+968,Korean Traditional Bowl 968,Middle Eastern,Thai,3,Cheesy,1473,4.5,0.7378461538461538
+969,Asian Classic Plate 969,Thai,European,5,Spicy,516,3.4,0.22338461538461538
+970,Japanese Gourmet Item 970,Japanese,Japanese,5,Spicy,1317,3.7,0.5298461538461539
+971,European Signature Meal 971,Italian,Thai,2,Umami,774,3.4,0.30276923076923073
+972,Chinese Special Dish 972,South Indian,Thai,3,Spicy,1766,3.4,0.608
+973,Thai Classic Plate 973,North Indian,European,1,Spicy,951,4.7,0.6172307692307692
+974,Indian Chef Style 974,Middle Eastern,European,2,Savory,1939,3.8,0.7412307692307691
+975,American House Special 975,Korean,Korean,1,Creamy,313,3.8,0.2409230769230769
+976,American Signature Meal 976,European,Mexican,5,Creamy,1368,3.2,0.44553846153846155
+977,Indian Gourmet Item 977,Chinese,Indian,2,Creamy,1262,4.6,0.6929230769230768
+978,American Signature Meal 978,Mexican,Mediterranean,1,Savory,1656,4.5,0.7941538461538462
+979,Indian Culinary Mix 979,Korean,Thai,1,Tangy,586,4.1,0.38492307692307687
+980,European Heritage Recipe 980,Japanese,Japanese,4,Savory,463,5.0,0.5270769230769231
+981,Thai Fusion Delight 981,Middle Eastern,Korean,3,Cheesy,1256,4.0,0.571076923076923
+982,Asian Classic Plate 982,Japanese,Italian,4,Cheesy,1802,4.1,0.759076923076923
+983,Asian Gourmet Item 983,Japanese,Japanese,5,Sweet,1658,4.9,0.8747692307692309
+984,American Fusion Delight 984,South Indian,American,1,Sweet,1353,4.0,0.6009230769230769
+985,Asian Heritage Recipe 985,Middle Eastern,Italian,4,Spicy,704,3.7,0.3412307692307693
+986,European Heritage Recipe 986,American,Thai,1,Umami,1561,3.9,0.6449230769230769
+987,Italian Chef Style 987,North Indian,Asian,5,Cheesy,580,4.0,0.3630769230769231
+988,Japanese Culinary Mix 988,Korean,Mexican,3,Cheesy,1947,4.0,0.7836923076923077
+989,Indian Classic Plate 989,Chinese,Mexican,4,Umami,880,3.5,0.3553846153846154
+990,Asian Classic Plate 990,North Indian,Thai,2,Spicy,873,4.8,0.6132307692307692
+991,Chinese Culinary Mix 991,Middle Eastern,Thai,4,Tangy,1997,4.8,0.959076923076923
+992,Thai Signature Meal 992,Japanese,Mediterranean,4,Sweet,1890,3.2,0.6061538461538462
+993,Mexican Fusion Delight 993,Japanese,Chinese,5,Spicy,1576,4.9,0.8495384615384616
+994,Italian Culinary Mix 994,Japanese,Italian,5,Savory,575,4.0,0.36153846153846153
+995,Mediterranean Classic Plate 995,Middle Eastern,Korean,3,Umami,1469,4.0,0.6366153846153846
+996,Chinese Gourmet Item 996,American,European,5,Umami,848,4.2,0.4855384615384616
+997,European Culinary Mix 997,Middle Eastern,Japanese,2,Spicy,1072,3.1,0.3344615384615384
+998,European Fusion Delight 998,European,Mediterranean,2,Umami,1642,3.4,0.5698461538461538
+999,Japanese Chef Style 999,Thai,Indian,5,Creamy,1860,4.3,0.8169230769230769
+1000,Korean Gourmet Item 1000,Chinese,Korean,3,Cheesy,491,3.6,0.2556923076923077
+1001,American Culinary Mix 1001,Chinese,Japanese,3,Cheesy,1721,3.6,0.6341538461538461
+1002,Mexican Special Dish 1002,Middle Eastern,Asian,1,Sweet,1809,3.4,0.6212307692307691
+1003,Italian Heritage Recipe 1003,Italian,Mexican,2,Sweet,481,3.8,0.2926153846153846
+1004,Indian Gourmet Item 1004,Italian,Thai,4,Tangy,1507,3.3,0.5083076923076923
+1005,Thai Fusion Delight 1005,Chinese,Asian,2,Cheesy,265,4.5,0.36615384615384616
+1006,Italian House Special 1006,Thai,Mediterranean,3,Creamy,386,3.5,0.20338461538461539
+1007,Mexican Traditional Bowl 1007,Italian,Chinese,1,Tangy,1995,4.0,0.7984615384615386
+1008,Chinese Fusion Delight 1008,Italian,Japanese,4,Savory,1521,4.2,0.6926153846153846
+1009,Mexican Special Dish 1009,Italian,European,4,Spicy,933,4.4,0.5516923076923077
+1010,Korean Classic Plate 1010,Mexican,Mexican,5,Creamy,1972,3.1,0.6113846153846154
+1011,Italian Special Dish 1011,Japanese,American,2,Cheesy,1451,3.3,0.4910769230769231
+1012,Mexican Traditional Bowl 1012,Korean,Thai,5,Sweet,1058,4.9,0.6901538461538463
+1013,Japanese Gourmet Item 1013,Chinese,American,5,Creamy,210,3.0,0.04923076923076923
+1014,Japanese House Special 1014,Middle Eastern,Indian,4,Savory,128,3.1,0.04400000000000002
+1015,Chinese Classic Plate 1015,Middle Eastern,Korean,2,Tangy,488,4.9,0.5147692307692309
+1016,Italian Fusion Delight 1016,Italian,Korean,2,Umami,153,3.1,0.051692307692307704
+1017,Italian Heritage Recipe 1017,Italian,Chinese,2,Creamy,1364,3.3,0.4643076923076923
+1018,Asian Classic Plate 1018,Korean,Asian,3,Savory,1884,4.6,0.8843076923076922
+1019,Thai Chef Style 1019,Mexican,American,2,Sweet,1599,4.2,0.7166153846153847
+1020,Mexican Gourmet Item 1020,Japanese,Mediterranean,3,Spicy,951,3.8,0.4372307692307692
+1021,Italian Traditional Bowl 1021,European,Indian,2,Umami,503,3.6,0.25938461538461544
+1022,Italian Chef Style 1022,Mexican,Korean,1,Creamy,1810,3.5,0.6415384615384615
+1023,Thai Heritage Recipe 1023,Japanese,Asian,5,Umami,487,4.2,0.3744615384615385
+1024,Korean Signature Meal 1024,Italian,American,1,Cheesy,710,4.0,0.4030769230769231
+1025,American Fusion Delight 1025,American,Thai,2,Creamy,1739,3.5,0.6196923076923077
+1026,Japanese Culinary Mix 1026,South Indian,Thai,3,Creamy,688,3.3,0.2563076923076923
+1027,Mexican Culinary Mix 1027,American,Asian,5,Savory,1622,3.8,0.6436923076923076
+1028,Chinese Signature Meal 1028,Japanese,Korean,3,Creamy,1523,3.7,0.5932307692307692
+1029,Indian Fusion Delight 1029,North Indian,Mediterranean,1,Tangy,1107,4.1,0.5452307692307692
+1030,Indian Traditional Bowl 1030,Middle Eastern,Italian,2,Creamy,251,3.2,0.10184615384615388
+1031,Japanese Culinary Mix 1031,Korean,Mexican,3,Cheesy,1260,3.9,0.5523076923076923
+1032,European Culinary Mix 1032,Italian,Mediterranean,5,Umami,321,4.9,0.4633846153846155
+1033,Chinese Traditional Bowl 1033,Chinese,Italian,5,Spicy,390,3.1,0.12461538461538463
+1034,Indian Classic Plate 1034,Japanese,Chinese,1,Creamy,1103,3.5,0.42400000000000004
+1035,Mexican Heritage Recipe 1035,Korean,Mediterranean,4,Sweet,1789,4.1,0.7550769230769231
+1036,Asian Heritage Recipe 1036,Japanese,Italian,4,Sweet,1649,3.7,0.632
+1037,Japanese Fusion Delight 1037,Middle Eastern,Indian,2,Tangy,783,3.9,0.4055384615384615
+1038,Italian Signature Meal 1038,European,Mexican,5,Creamy,1743,4.7,0.860923076923077
+1039,Thai Chef Style 1039,Thai,Mexican,2,Tangy,249,4.7,0.4012307692307693
+1040,Chinese Chef Style 1040,South Indian,Mexican,1,Umami,1591,3.9,0.6541538461538461
+1041,Italian Fusion Delight 1041,Italian,Korean,2,Sweet,1090,4.7,0.6600000000000001
+1042,Mexican Signature Meal 1042,Thai,Mediterranean,4,Tangy,1407,4.6,0.7375384615384615
+1043,Mediterranean Culinary Mix 1043,Japanese,Korean,2,Sweet,1211,3.8,0.5172307692307692
+1044,Korean Chef Style 1044,Chinese,Asian,5,Spicy,424,4.3,0.37507692307692303
+1045,Mediterranean Special Dish 1045,American,Asian,4,Spicy,1696,3.3,0.5664615384615383
+1046,Asian Gourmet Item 1046,European,Indian,5,Creamy,472,4.6,0.4498461538461538
+1047,Korean House Special 1047,Middle Eastern,American,1,Creamy,1304,4.5,0.6858461538461539
+1048,American House Special 1048,European,Italian,4,Creamy,1670,4.5,0.7984615384615386
+1049,European Traditional Bowl 1049,Middle Eastern,Asian,2,Tangy,1583,4.0,0.6716923076923077
+1050,Italian Culinary Mix 1050,South Indian,Mediterranean,3,Cheesy,911,5.0,0.664923076923077
+1051,Thai Gourmet Item 1051,North Indian,Korean,1,Umami,90,4.7,0.3523076923076924
+1052,Korean Chef Style 1052,Middle Eastern,Italian,2,Spicy,488,3.2,0.1747692307692308
+1053,Chinese Chef Style 1053,Chinese,Italian,5,Tangy,969,4.3,0.5427692307692307
+1054,American Chef Style 1054,Thai,Chinese,3,Umami,971,4.2,0.5233846153846154
+1055,Korean Classic Plate 1055,American,Mexican,2,Savory,1243,3.4,0.44707692307692304
+1056,European Signature Meal 1056,Mexican,European,4,Umami,938,4.6,0.5932307692307692
+1057,Japanese Signature Meal 1057,South Indian,Mediterranean,2,Spicy,1447,4.9,0.809846153846154
+1058,Asian Culinary Mix 1058,European,Mediterranean,5,Savory,597,3.8,0.3283076923076923
+1059,American Gourmet Item 1059,Thai,European,1,Savory,497,3.3,0.1975384615384615
+1060,Chinese Gourmet Item 1060,North Indian,Italian,4,Tangy,1662,3.6,0.616
+1061,Mexican Gourmet Item 1061,Italian,American,3,Cheesy,1830,3.1,0.5676923076923077
+1062,Italian Heritage Recipe 1062,Japanese,Italian,5,Tangy,356,3.4,0.17415384615384613
+1063,European Culinary Mix 1063,Chinese,Thai,2,Spicy,842,4.8,0.6036923076923076
+1064,Thai Chef Style 1064,North Indian,Mexican,4,Sweet,1730,4.7,0.856923076923077
+1065,Japanese Signature Meal 1065,Japanese,Thai,4,Cheesy,1822,4.0,0.7452307692307691
+1066,Italian Chef Style 1066,South Indian,Mexican,4,Spicy,1754,3.9,0.7043076923076923
+1067,Korean Special Dish 1067,Mexican,Chinese,2,Spicy,1271,4.0,0.5756923076923077
+1068,Korean Fusion Delight 1068,Korean,Mexican,5,Savory,1962,4.7,0.9283076923076924
+1069,Korean House Special 1069,European,Mediterranean,1,Tangy,1811,5.0,0.9418461538461539
+1070,Chinese Fusion Delight 1070,European,Mexican,4,Creamy,506,3.1,0.16030769230769232
+1071,Chinese Heritage Recipe 1071,South Indian,Asian,5,Tangy,351,4.8,0.4526153846153846
+1072,Indian Gourmet Item 1072,Japanese,Mediterranean,1,Tangy,928,3.7,0.4101538461538462
+1073,European Signature Meal 1073,Thai,Mediterranean,4,Umami,1594,4.1,0.695076923076923
+1074,Japanese Chef Style 1074,Japanese,Thai,5,Sweet,1362,4.6,0.7236923076923076
+1075,Chinese House Special 1075,European,American,2,Creamy,1722,4.0,0.7144615384615385
+1076,American Signature Meal 1076,South Indian,Asian,3,Sweet,1831,4.4,0.8280000000000001
+1077,Mediterranean Gourmet Item 1077,Korean,Thai,2,Savory,578,4.9,0.5424615384615386
+1078,European Chef Style 1078,American,Italian,2,Umami,1902,3.4,0.6498461538461537
+1079,Chinese House Special 1079,Chinese,Korean,2,Tangy,1406,4.0,0.6172307692307692
+1080,Korean Chef Style 1080,Thai,Japanese,3,Savory,1475,3.8,0.5984615384615384
+1081,Japanese Signature Meal 1081,European,Chinese,5,Sweet,1906,4.2,0.811076923076923
+1082,Mexican Classic Plate 1082,Italian,Mediterranean,3,Sweet,107,3.5,0.11753846153846154
+1083,Asian Fusion Delight 1083,Middle Eastern,Indian,4,Creamy,1962,3.6,0.7083076923076923
+1084,Japanese Culinary Mix 1084,European,American,3,Spicy,1427,4.2,0.6636923076923077
+1085,Chinese Traditional Bowl 1085,Chinese,Chinese,2,Spicy,885,4.3,0.5169230769230768
+1086,Asian Heritage Recipe 1086,American,Mediterranean,4,Creamy,97,4.4,0.29446153846153855
+1087,Mexican House Special 1087,Middle Eastern,Mexican,4,Sweet,874,4.1,0.47353846153846146
+1088,European Gourmet Item 1088,North Indian,Chinese,5,Spicy,1976,4.9,0.9726153846153847
+1089,Korean Special Dish 1089,Italian,Chinese,2,Tangy,228,3.0,0.05476923076923077
+1090,Indian House Special 1090,Middle Eastern,Indian,4,Creamy,96,3.6,0.13415384615384618
+1091,European Traditional Bowl 1091,American,American,4,Sweet,554,4.4,0.43507692307692314
+1092,Mediterranean Special Dish 1092,Thai,Japanese,2,Cheesy,469,4.4,0.408923076923077
+1093,Indian Classic Plate 1093,Japanese,American,1,Spicy,834,4.3,0.5012307692307691
+1094,Thai Signature Meal 1094,North Indian,Thai,2,Savory,1183,3.1,0.3686153846153846
+1095,European Signature Meal 1095,Middle Eastern,European,2,Savory,1029,3.5,0.40123076923076917
+1096,Mexican Signature Meal 1096,Korean,Japanese,2,Cheesy,942,3.3,0.33446153846153837
+1097,Mexican Fusion Delight 1097,Middle Eastern,Korean,2,Savory,72,3.1,0.026769230769230788
+1098,Indian Chef Style 1098,Italian,Japanese,3,Creamy,474,4.0,0.3304615384615385
+1099,Asian Chef Style 1099,Middle Eastern,Korean,5,Tangy,1893,3.5,0.667076923076923
+1100,Korean Classic Plate 1100,American,Thai,5,Tangy,281,3.8,0.23107692307692307
+1101,European Signature Meal 1101,American,American,5,Spicy,1206,4.0,0.5556923076923077
+1102,Asian Chef Style 1102,South Indian,Mexican,3,Umami,1795,4.9,0.9169230769230771
+1103,Chinese Gourmet Item 1103,North Indian,Asian,2,Cheesy,573,3.3,0.2209230769230769
+1104,Mexican Traditional Bowl 1104,Mexican,Mexican,2,Creamy,1254,4.1,0.5904615384615384
+1105,Japanese Classic Plate 1105,Korean,Korean,4,Umami,1778,4.8,0.8916923076923077
+1106,Thai House Special 1106,Mexican,Japanese,5,Umami,1576,3.3,0.5295384615384615
+1107,Chinese Chef Style 1107,Chinese,Japanese,5,Creamy,1889,3.9,0.7458461538461538
+1108,Mediterranean Traditional Bowl 1108,Chinese,Indian,1,Cheesy,100,4.6,0.33538461538461534
+1109,Japanese House Special 1109,North Indian,Thai,3,Spicy,781,3.9,0.40492307692307694
+1110,European Fusion Delight 1110,Middle Eastern,Asian,1,Tangy,315,4.7,0.42153846153846164
+1111,Mediterranean Classic Plate 1111,Mexican,American,1,Umami,1358,3.4,0.4824615384615385
+1112,Mexican Gourmet Item 1112,Mexican,European,4,Savory,2000,4.2,0.8400000000000001
+1113,Italian Culinary Mix 1113,American,Thai,2,Umami,1428,3.9,0.604
+1114,European House Special 1114,Italian,Korean,5,Spicy,763,4.3,0.4793846153846153
+1115,Italian House Special 1115,North Indian,Asian,1,Creamy,489,4.5,0.43507692307692314
+1116,Mediterranean Chef Style 1116,Mexican,Chinese,2,Sweet,1335,3.5,0.4953846153846154
+1117,Indian Signature Meal 1117,Korean,Chinese,2,Sweet,1477,4.8,0.799076923076923
+1118,Thai Heritage Recipe 1118,South Indian,Thai,5,Savory,579,3.1,0.1827692307692308
+1119,American Classic Plate 1119,Italian,Japanese,1,Spicy,1010,3.9,0.4753846153846154
+1120,Mediterranean Gourmet Item 1120,Middle Eastern,Mediterranean,2,Sweet,765,4.8,0.58
+1121,Chinese Gourmet Item 1121,Mexican,Indian,4,Umami,1454,3.4,0.512
+1122,Korean Chef Style 1122,South Indian,Italian,2,Spicy,171,3.4,0.11723076923076922
+1123,Asian Gourmet Item 1123,South Indian,Mediterranean,5,Tangy,1837,4.9,0.929846153846154
+1124,Indian Classic Plate 1124,European,Chinese,3,Savory,86,4.1,0.231076923076923
+1125,Japanese Chef Style 1125,Italian,Asian,5,Tangy,1419,4.9,0.8012307692307694
+1126,American Gourmet Item 1126,Mexican,Mediterranean,3,Tangy,404,4.3,0.36892307692307685
+1127,Italian Fusion Delight 1127,Japanese,Asian,5,Tangy,1156,4.7,0.6803076923076924
+1128,European Signature Meal 1128,Korean,Indian,1,Sweet,1731,3.4,0.5972307692307691
+1129,Japanese Gourmet Item 1129,American,Asian,3,Savory,699,3.4,0.2796923076923077
+1130,Asian House Special 1130,Italian,Indian,5,Savory,1464,3.2,0.47507692307692306
+1131,Japanese Special Dish 1131,Middle Eastern,Indian,3,Tangy,489,4.3,0.395076923076923
+1132,Chinese Special Dish 1132,European,Korean,3,Creamy,1663,4.4,0.7763076923076924
+1133,Italian Gourmet Item 1133,Mexican,Thai,4,Creamy,362,3.3,0.15599999999999997
+1134,Korean Traditional Bowl 1134,European,Indian,3,Savory,1244,5.0,0.7673846153846153
+1135,American Special Dish 1135,Thai,Korean,1,Tangy,1477,3.9,0.6190769230769231
+1136,European Traditional Bowl 1136,Thai,Chinese,2,Spicy,1953,3.8,0.7455384615384615
+1137,Indian Gourmet Item 1137,American,Italian,3,Umami,629,3.1,0.19815384615384615
+1138,Mediterranean Signature Meal 1138,Italian,Italian,3,Savory,1695,3.0,0.5061538461538462
+1139,Asian House Special 1139,American,Korean,3,Spicy,649,4.0,0.38430769230769235
+1140,Mexican House Special 1140,Mexican,Indian,4,Savory,637,3.1,0.2006153846153846
+1141,Chinese Culinary Mix 1141,Korean,Indian,4,Umami,934,3.1,0.292
+1142,American Traditional Bowl 1142,South Indian,Italian,3,Savory,180,3.4,0.12
+1143,Chinese Chef Style 1143,Italian,Italian,5,Sweet,392,4.7,0.4452307692307693
+1144,Korean Signature Meal 1144,Korean,European,1,Tangy,553,4.0,0.3547692307692307
+1145,Chinese Signature Meal 1145,North Indian,Mediterranean,2,Sweet,1328,4.0,0.5932307692307692
+1146,Korean Heritage Recipe 1146,American,Thai,2,Umami,703,3.2,0.24092307692307693
+1147,Chinese Traditional Bowl 1147,Japanese,American,5,Sweet,1241,4.3,0.6264615384615384
+1148,Korean Traditional Bowl 1148,American,Italian,3,Sweet,1787,4.2,0.7744615384615385
+1149,Asian Gourmet Item 1149,Thai,Japanese,5,Creamy,1192,3.9,0.5313846153846153
+1150,Thai House Special 1150,Chinese,Italian,4,Sweet,363,4.4,0.3763076923076924
+1151,Chinese Gourmet Item 1151,Mexican,Mexican,4,Sweet,324,4.0,0.2843076923076923
+1152,Mediterranean Signature Meal 1152,North Indian,American,3,Cheesy,113,4.8,0.3793846153846154
+1153,Indian Special Dish 1153,Chinese,Chinese,2,Cheesy,101,3.1,0.035692307692307704
+1154,Asian Special Dish 1154,American,Japanese,2,Sweet,538,4.1,0.3701538461538461
+1155,Indian Classic Plate 1155,Chinese,Mexican,1,Tangy,1353,3.8,0.5609230769230769
+1156,Chinese Heritage Recipe 1156,European,Japanese,2,Spicy,890,3.2,0.2984615384615385
+1157,Italian Chef Style 1157,Thai,American,3,Spicy,1589,3.3,0.5335384615384614
+1158,Indian Fusion Delight 1158,Japanese,Mexican,1,Creamy,351,3.2,0.13261538461538463
+1159,Chinese Special Dish 1159,Mexican,Thai,2,Spicy,891,3.8,0.4187692307692307
+1160,Asian Fusion Delight 1160,Middle Eastern,Chinese,1,Creamy,1183,3.3,0.4086153846153846
+1161,Asian Culinary Mix 1161,Chinese,Indian,1,Creamy,630,3.1,0.19846153846153847
+1162,Italian Chef Style 1162,American,Chinese,2,Umami,705,3.9,0.3815384615384615
+1163,Mexican Signature Meal 1163,Middle Eastern,European,5,Savory,1066,4.5,0.6126153846153846
+1164,Mexican Signature Meal 1164,Italian,Asian,5,Spicy,1063,3.3,0.37169230769230766
+1165,Mexican Fusion Delight 1165,European,American,3,Tangy,882,3.4,0.33599999999999997
+1166,Italian Special Dish 1166,Japanese,Thai,1,Cheesy,811,3.3,0.2941538461538461
+1167,Italian Signature Meal 1167,Italian,Thai,2,Savory,1278,3.7,0.517846153846154
+1168,European Traditional Bowl 1168,Thai,Korean,5,Sweet,1869,3.1,0.5796923076923077
+1169,American Gourmet Item 1169,Italian,Indian,1,Umami,1138,4.4,0.6147692307692308
+1170,American Signature Meal 1170,Chinese,Thai,4,Spicy,561,4.3,0.4172307692307692
+1171,Mexican Signature Meal 1171,European,Mediterranean,5,Savory,1552,4.8,0.8221538461538461
+1172,Korean Signature Meal 1172,North Indian,Japanese,2,Creamy,992,3.1,0.3098461538461538
+1173,Thai Signature Meal 1173,South Indian,Korean,5,Umami,1746,4.8,0.8818461538461538
+1174,European Heritage Recipe 1174,Italian,Korean,2,Spicy,1920,3.5,0.6753846153846154
+1175,American Heritage Recipe 1175,Korean,Italian,4,Savory,1382,4.8,0.7698461538461538
+1176,Chinese Chef Style 1176,Thai,Italian,2,Sweet,645,3.7,0.32307692307692315
+1177,Korean Culinary Mix 1177,Italian,Mexican,1,Spicy,1888,4.0,0.7655384615384615
+1178,Korean Fusion Delight 1178,North Indian,Indian,5,Savory,1830,4.4,0.8276923076923077
+1179,Japanese Special Dish 1179,American,Korean,5,Cheesy,283,4.5,0.37169230769230777
+1180,Mexican Chef Style 1180,Thai,Indian,2,Sweet,136,3.8,0.18646153846153843
+1181,Italian Fusion Delight 1181,European,Thai,3,Savory,1426,4.1,0.6433846153846153
+1182,Italian Chef Style 1182,Middle Eastern,Thai,5,Savory,214,4.1,0.2704615384615384
+1183,Mexican Classic Plate 1183,North Indian,Thai,4,Creamy,1793,3.1,0.5563076923076923
+1184,Chinese Signature Meal 1184,North Indian,Mexican,2,Cheesy,890,3.4,0.3384615384615385
+1185,Indian Special Dish 1185,European,Thai,4,Creamy,853,4.2,0.4870769230769231
+1186,Mediterranean Special Dish 1186,Korean,Italian,1,Savory,1718,3.4,0.5932307692307692
+1187,American Chef Style 1187,North Indian,Korean,3,Creamy,1056,3.9,0.4895384615384615
+1188,Thai House Special 1188,Italian,Indian,4,Cheesy,1130,3.1,0.3523076923076923
+1189,European Traditional Bowl 1189,North Indian,American,2,Savory,357,3.7,0.2344615384615385
+1190,Asian Traditional Bowl 1190,Mexican,American,1,Savory,626,4.3,0.4372307692307692
+1191,Indian House Special 1191,Middle Eastern,Japanese,3,Spicy,1234,3.7,0.5043076923076923
+1192,Mexican House Special 1192,Middle Eastern,American,2,Sweet,523,3.5,0.24553846153846154
+1193,Thai Traditional Bowl 1193,Korean,Mediterranean,4,Creamy,957,3.0,0.27907692307692306
+1194,Japanese Classic Plate 1194,European,European,3,Umami,1809,4.1,0.7612307692307692
+1195,Italian Classic Plate 1195,North Indian,Asian,5,Tangy,592,4.1,0.3867692307692307
+1196,Italian Culinary Mix 1196,South Indian,Thai,3,Savory,366,4.1,0.3172307692307692
+1197,European Gourmet Item 1197,Italian,Italian,2,Tangy,136,4.5,0.3264615384615385
+1198,Korean House Special 1198,American,European,3,Sweet,1907,4.2,0.8113846153846154
+1199,Korean Gourmet Item 1199,Mexican,Italian,4,Spicy,1292,3.5,0.48215384615384616
+1200,Mediterranean Culinary Mix 1200,European,Mexican,3,Creamy,561,3.2,0.19723076923076924
+1201,Italian Signature Meal 1201,Italian,Japanese,5,Cheesy,1191,3.8,0.5110769230769231
+1202,Thai Traditional Bowl 1202,Korean,Mexican,1,Sweet,850,4.9,0.6261538461538463
+1203,Mediterranean Heritage Recipe 1203,Thai,European,2,Savory,1303,3.8,0.5455384615384615
+1204,Indian Gourmet Item 1204,Mexican,Japanese,5,Savory,1423,3.7,0.5624615384615385
+1205,Indian House Special 1205,American,Korean,5,Spicy,902,3.0,0.2621538461538461
+1206,Korean Culinary Mix 1206,Chinese,Korean,4,Spicy,83,4.6,0.33015384615384613
+1207,Mexican Special Dish 1207,South Indian,Indian,3,Cheesy,1887,3.9,0.7452307692307691
+1208,Mediterranean House Special 1208,Italian,European,1,Savory,492,3.3,0.19599999999999995
+1209,Asian Chef Style 1209,North Indian,European,3,Umami,329,3.2,0.12584615384615389
+1210,Mediterranean Classic Plate 1210,Mexican,Italian,4,Cheesy,124,3.7,0.1627692307692308
+1211,Japanese Gourmet Item 1211,Thai,Mediterranean,4,Tangy,374,3.2,0.13969230769230773
+1212,Mexican House Special 1212,North Indian,Italian,2,Creamy,1951,3.7,0.7249230769230769
+1213,Thai Special Dish 1213,Japanese,Korean,2,Sweet,1031,4.1,0.5218461538461537
+1214,Indian Fusion Delight 1214,Korean,Mexican,3,Savory,162,3.4,0.11446153846153845
+1215,Japanese Fusion Delight 1215,North Indian,Korean,4,Savory,1125,3.4,0.4107692307692308
+1216,Chinese Gourmet Item 1216,Chinese,Mexican,5,Tangy,1973,4.3,0.8516923076923075
+1217,Mexican Culinary Mix 1217,European,Italian,4,Sweet,1600,4.2,0.716923076923077
+1218,European Special Dish 1218,Italian,American,1,Savory,435,3.1,0.13846153846153847
+1219,Italian Heritage Recipe 1219,Middle Eastern,European,3,Sweet,1708,3.9,0.6901538461538461
+1220,Asian Signature Meal 1220,Middle Eastern,Japanese,4,Sweet,430,4.9,0.496923076923077
+1221,Mediterranean Heritage Recipe 1221,Mexican,Japanese,2,Tangy,190,4.2,0.2830769230769231
+1222,Japanese Fusion Delight 1222,Thai,Korean,2,Creamy,1569,4.0,0.6673846153846154
+1223,American House Special 1223,Japanese,Japanese,5,Tangy,1004,4.2,0.5335384615384615
+1224,Thai Classic Plate 1224,Japanese,Mediterranean,2,Tangy,780,4.5,0.5246153846153847
+1225,European Special Dish 1225,Japanese,Italian,1,Savory,1370,4.9,0.7861538461538462
+1226,American House Special 1226,Korean,Japanese,4,Savory,1580,3.2,0.5107692307692308
+1227,Thai Signature Meal 1227,Mexican,Mediterranean,3,Savory,1959,4.3,0.8473846153846154
+1228,Thai Heritage Recipe 1228,Japanese,Chinese,5,Savory,1752,3.6,0.6436923076923077
+1229,Italian Gourmet Item 1229,Middle Eastern,Indian,5,Umami,175,4.7,0.3784615384615385
+1230,Italian Chef Style 1230,Chinese,Italian,3,Sweet,1865,4.2,0.7984615384615386
+1231,American Fusion Delight 1231,North Indian,European,5,Cheesy,300,3.2,0.11692307692307695
+1232,Asian Signature Meal 1232,Mexican,Mediterranean,2,Sweet,700,4.7,0.54
+1233,Korean Fusion Delight 1233,Thai,Asian,4,Tangy,1466,4.7,0.7756923076923077
+1234,Mediterranean Classic Plate 1234,American,European,1,Cheesy,462,4.2,0.3667692307692308
+1235,Italian Chef Style 1235,Thai,European,1,Creamy,1383,4.6,0.7301538461538462
+1236,Thai Gourmet Item 1236,American,Asian,2,Savory,1501,4.3,0.7064615384615385
+1237,Italian Heritage Recipe 1237,North Indian,Asian,5,Tangy,1221,5.0,0.7603076923076924
+1238,Mexican Traditional Bowl 1238,Italian,American,1,Cheesy,1530,3.7,0.5953846153846154
+1239,Korean House Special 1239,Japanese,Asian,4,Sweet,322,4.1,0.30369230769230765
+1240,Thai Special Dish 1240,North Indian,Japanese,3,Savory,1472,4.5,0.7375384615384616
+1241,Mexican Signature Meal 1241,Mexican,Asian,4,Cheesy,542,3.9,0.3313846153846154
+1242,Indian Chef Style 1242,Korean,Mexican,3,Creamy,279,3.2,0.1104615384615385
+1243,Korean Fusion Delight 1243,European,Chinese,1,Tangy,1723,5.0,0.9147692307692308
+1244,Japanese Traditional Bowl 1244,Korean,Japanese,1,Spicy,334,4.6,0.40738461538461535
+1245,Mediterranean Culinary Mix 1245,Middle Eastern,Mediterranean,3,Savory,1931,4.1,0.7987692307692308
+1246,Mediterranean Heritage Recipe 1246,North Indian,European,5,Tangy,228,4.8,0.4147692307692308
+1247,European Heritage Recipe 1247,Korean,Indian,1,Tangy,1684,3.7,0.6427692307692308
+1248,Indian Gourmet Item 1248,American,Chinese,5,Spicy,64,3.5,0.10430769230769231
+1249,Chinese House Special 1249,Korean,Thai,1,Tangy,907,4.6,0.5836923076923076
+1250,Korean Traditional Bowl 1250,European,Italian,2,Creamy,1640,3.6,0.6092307692307692
+1251,Italian House Special 1251,European,Mexican,3,Cheesy,75,4.6,0.3276923076923076
+1252,Indian Chef Style 1252,Chinese,Thai,1,Savory,334,4.2,0.32738461538461544
+1253,Asian Heritage Recipe 1253,Chinese,Korean,5,Cheesy,236,4.1,0.27723076923076917
+1254,Thai Heritage Recipe 1254,Italian,Indian,2,Savory,1312,4.2,0.6283076923076923
+1255,Chinese Fusion Delight 1255,American,Asian,1,Savory,946,4.9,0.6556923076923078
+1256,Korean Classic Plate 1256,Korean,Thai,1,Cheesy,1405,3.8,0.5769230769230769
+1257,Korean Heritage Recipe 1257,Chinese,Indian,4,Umami,544,4.8,0.512
+1258,Indian Special Dish 1258,Italian,American,1,Creamy,1551,4.0,0.6618461538461538
+1259,European Chef Style 1259,South Indian,Asian,5,Umami,1688,4.4,0.784
+1260,Korean Culinary Mix 1260,Chinese,American,5,Umami,1382,3.5,0.5098461538461538
+1261,Mexican Signature Meal 1261,Mexican,Mexican,3,Savory,1797,4.3,0.7975384615384615
+1262,Korean Chef Style 1262,South Indian,Japanese,5,Tangy,1621,3.4,0.5633846153846154
+1263,Indian Culinary Mix 1263,American,European,1,Spicy,1348,4.5,0.6993846153846155
+1264,Italian Gourmet Item 1264,Middle Eastern,Asian,5,Sweet,387,3.2,0.14369230769230773
+1265,Mediterranean Special Dish 1265,South Indian,American,4,Spicy,244,4.9,0.4396923076923078
+1266,Mediterranean Gourmet Item 1266,Italian,Korean,3,Creamy,1080,3.6,0.43692307692307697
+1267,Indian House Special 1267,Mexican,Indian,5,Umami,483,3.1,0.15323076923076925
+1268,European Classic Plate 1268,North Indian,Mediterranean,5,Sweet,1166,4.0,0.5433846153846154
+1269,Indian Culinary Mix 1269,American,Mediterranean,4,Tangy,1211,3.2,0.3972307692307693
+1270,European Fusion Delight 1270,Chinese,Mediterranean,3,Cheesy,384,3.4,0.18276923076923074
+1271,Chinese Signature Meal 1271,North Indian,European,3,Cheesy,1600,4.8,0.8369230769230769
+1272,Thai Heritage Recipe 1272,North Indian,Mexican,1,Tangy,1201,4.2,0.5941538461538463
+1273,Thai Chef Style 1273,Italian,American,2,Sweet,508,4.2,0.380923076923077
+1274,Indian Traditional Bowl 1274,Chinese,Asian,2,Savory,1251,4.5,0.6695384615384616
+1275,Chinese Culinary Mix 1275,North Indian,Italian,5,Spicy,1013,4.6,0.6163076923076922
+1276,European Signature Meal 1276,Mexican,Indian,4,Umami,1009,3.7,0.43507692307692314
+1277,Italian Classic Plate 1277,American,European,4,Umami,1177,4.1,0.5667692307692307
+1278,European House Special 1278,Mexican,Asian,5,Creamy,1635,3.5,0.5876923076923076
+1279,Mediterranean Heritage Recipe 1279,Middle Eastern,Korean,3,Cheesy,1310,3.1,0.40769230769230774
+1280,Korean Traditional Bowl 1280,Japanese,Korean,4,Cheesy,1985,4.5,0.8953846153846154
+1281,Chinese Signature Meal 1281,Middle Eastern,Thai,1,Cheesy,370,4.2,0.3384615384615385
+1282,Indian Gourmet Item 1282,American,Asian,3,Creamy,1129,3.7,0.4720000000000001
+1283,Mexican Culinary Mix 1283,Korean,Mediterranean,1,Umami,1004,3.0,0.2935384615384615
+1284,Chinese Heritage Recipe 1284,Thai,Korean,5,Creamy,551,3.0,0.15415384615384614
+1285,Chinese Classic Plate 1285,Japanese,Chinese,5,Sweet,1064,4.8,0.6719999999999999
+1286,Mediterranean House Special 1286,North Indian,Mediterranean,1,Umami,1290,4.9,0.7615384615384616
+1287,Mexican Signature Meal 1287,North Indian,Mexican,2,Cheesy,1789,3.8,0.6950769230769231
+1288,Mediterranean Culinary Mix 1288,Italian,Italian,1,Umami,1087,3.5,0.4190769230769231
+1289,Mediterranean Traditional Bowl 1289,American,Asian,5,Spicy,1023,4.1,0.5193846153846153
+1290,Italian Signature Meal 1290,Middle Eastern,Mexican,1,Sweet,499,4.8,0.49815384615384617
+1291,Mexican Fusion Delight 1291,North Indian,American,1,Sweet,758,3.4,0.2978461538461538
+1292,Mexican Gourmet Item 1292,American,Mediterranean,2,Cheesy,728,3.1,0.22861538461538464
+1293,Japanese Special Dish 1293,European,Thai,3,Sweet,1076,4.4,0.5956923076923077
+1294,European Heritage Recipe 1294,American,Korean,1,Savory,856,4.2,0.48800000000000004
+1295,Thai House Special 1295,Korean,Italian,3,Umami,51,3.8,0.1603076923076923
+1296,Italian Culinary Mix 1296,American,Indian,2,Spicy,1495,3.0,0.44461538461538463
+1297,Thai House Special 1297,Japanese,Mexican,2,Tangy,587,3.8,0.3252307692307692
+1298,Korean Chef Style 1298,European,Korean,2,Umami,636,3.6,0.30030769230769233
+1299,Indian Gourmet Item 1299,European,Mexican,1,Cheesy,806,4.3,0.49261538461538457
+1300,Japanese Traditional Bowl 1300,Mexican,Asian,2,Cheesy,496,4.0,0.3372307692307692

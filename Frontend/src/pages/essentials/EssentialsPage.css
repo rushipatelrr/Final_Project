@@ -1,0 +1,34 @@
+/* Overall page padding */
+.essentials-header-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  padding: 40px 60px 20px;
+  gap: 30px;
+  background-color: #fff;
+}
+
+/* Heading styling */
+.essentials-heading {
+  font-size: 28px;
+  font-weight: bold;
+  color: #2c3e50;
+  margin: 0;
+  flex: 1 1 300px;
+}
+
+/* Essentials grid */
+.essentials-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 24px;
+  padding: 20px 60px 40px;
+  background-color: #f8f9fa;
+}
+
+/* Make PhotoUpload section responsive */
+.mini-photocopy-upload {
+  flex: 1 1 300px;
+  max-width: 400px;
+}

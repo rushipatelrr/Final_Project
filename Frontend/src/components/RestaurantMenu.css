@@ -1,0 +1,102 @@
+.menu-container {
+  padding: 2rem;
+  background-color: #fdfdfd;
+  min-height: 100vh;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.menu-title {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  color: #333;
+}
+
+.menu-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.menu-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 1rem 1.5rem;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.06);
+  transition: transform 0.2s ease;
+}
+
+.menu-card:hover {
+  transform: translateY(-2px);
+}
+
+.menu-card-info h3 {
+  font-size: 1.2rem;
+  color: #222;
+  margin-bottom: 0.2rem;
+}
+
+.menu-card-info p {
+  font-size: 0.95rem;
+  color: #555;
+  margin-bottom: 0.4rem;
+}
+
+.menu-price {
+  font-weight: 600;
+  color: #4caf50;
+  font-size: 1rem;
+}
+
+.add-cart-btn {
+  background-color: #10b981;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 0.5rem 1rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+  height: fit-content;
+  margin-left: 1rem;
+  transition: background-color 0.2s ease;
+}
+
+.add-cart-btn:hover {
+  background-color: #f4511e;
+}
+.quantity-controller {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background-color: #f3f3f3;
+  padding: 0.4rem 0.8rem;
+  border-radius: 8px;
+  height: fit-content;
+}
+
+.quantity-controller button {
+  background-color: #ff7043;
+  border: none;
+  color: white;
+  font-size: 1.1rem;
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.quantity-controller button:hover {
+  background-color: #f4511e;
+}
+
+.quantity-controller span {
+  font-weight: 600;
+  color: #333;
+}

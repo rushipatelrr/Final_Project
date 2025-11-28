@@ -1,0 +1,156 @@
+.cart-container {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #fdfdfd;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.06);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cart-container h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.cart-items {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.cart-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fafafa;
+  padding: 15px 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease;
+}
+
+.cart-item:hover {
+  transform: translateY(-2px);
+}
+
+.cart-info {
+  flex-grow: 1;
+}
+
+.cart-info h4 {
+  margin: 0 0 5px;
+  font-size: 18px;
+  color: #222;
+}
+
+.cart-info p {
+  margin: 0 0 10px;
+  font-size: 16px;
+  color: #666;
+}
+
+.quantity-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.quantity-controls button {
+  padding: 5px 10px;
+  border: none;
+  background-color: #d1eaff;
+  color: #0077cc;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.quantity-controls button:hover {
+  background-color: #0077cc;
+  color: white;
+}
+
+.quantity-controls span {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.remove-btn {
+  background-color: #ffdddd;
+  color: #c00;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 5px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+.remove-btn:hover {
+  background-color: #ff4d4d;
+  color: white;
+}
+
+.cart-summary {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.cart-summary h3 {
+  font-size: 22px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.clear-cart,
+.checkout-btn {
+  padding: 12px 24px;
+  margin: 0 10px;
+  border: none;
+  font-size: 16px;
+  font-weight: 600;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.clear-cart {
+  background-color: #f9caca;
+  color: #c0392b;
+}
+
+.clear-cart:hover {
+  background-color: #e74c3c;
+  color: white;
+}
+
+.checkout-btn {
+  background-color: #81ecec;
+  color: #006666;
+}
+
+.checkout-btn:hover {
+  background-color: #00cec9;
+  color: white;
+}
+
+@media (max-width: 600px) {
+  .cart-item {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .quantity-controls {
+    margin-top: 10px;
+  }
+
+  .clear-cart,
+  .checkout-btn {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+  }
+}

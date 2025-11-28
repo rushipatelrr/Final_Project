@@ -1,0 +1,28 @@
+.order-history-page {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+.order-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.order-card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 12px;
+  background: #f9f9f9;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+
+.order-card .items {
+  margin-top: 1rem;
+  padding-left: 1rem;
+}
+
+.order-card .item {
+  margin-bottom: 0.5rem;
+}
